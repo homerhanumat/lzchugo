@@ -9,7 +9,7 @@
   background-color: none;
   list-style-type: none; /* Remove bullets */
   margin: 0; /* Remove margins */
-  min-width: 100px;
+  min-width: 120px;
   padding: 6px 8px;
   z-index: 1;
 }
@@ -28,3 +28,4 @@
   color: white;
   opacity: 100%;
 }
+
