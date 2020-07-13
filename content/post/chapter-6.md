@@ -5,7 +5,11 @@ featured_image: "/images/esmeralda.jpg"
 tags: []
 title: "Chapter VI: Esmeralda"
 disable_share: false
+toc: true
 ---
+
+## First
+
 We are delighted to be able to inform the reader, that during the whole of
 this scene, Gringoire and his piece had stood firm. His actors, spurred on
 by him, had not ceased to spout his comedy, and he had not ceased to
@@ -23,6 +27,8 @@ in groups around the pillars, women, old men, or children, who had had
 enough of the uproar and tumult. Some scholars were still perched astride
 of the window-sills, engaged in gazing into the Place.
 
+### First-a
+
 “Well,” thought Gringoire, “here are still as many as are required to hear
 the end of my mystery. They are few in number, but it is a choice
 audience, a lettered audience.”
@@ -31,6 +37,8 @@ An instant later, a symphony which had been intended to produce the
 greatest effect on the arrival of the Virgin, was lacking. Gringoire
 perceived that his music had been carried off by the procession of the
 Pope of the Fools. “Skip it,” said he, stoically.
+
+### First-b
 
 He approached a group of bourgeois, who seemed to him to be discussing his
 piece. This is the fragment of conversation which he caught,—
@@ -59,6 +67,8 @@ was heard from without.
 “What’s the meaning of this, of the Esmeralda?” said Gringoire, wringing
 his hands in despair. “Ah, good heavens! it seems to be the turn of the
 windows now.”
+
+## Second
 
 He returned towards the marble table, and saw that the representation had
 been interrupted. It was precisely at the instant when Jupiter should have
