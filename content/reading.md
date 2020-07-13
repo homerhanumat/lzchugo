@@ -114,49 +114,48 @@ Bearing in mind Dogen's advice, we provide here a listing of English-language so
 ### Chinese and Japanese
       
 <p>
-    The single most influential classical collection of koans is <a href = "http://wwshambhala.com/the-blue-cliff-record.html" target = "_blank"><em>The Blue Cliff Record</em></a>, here translated by Thomas Cleary.  There are one hundred koans, each one preceded by a pointer and followed by commentary and a verse.  First complied in 112CE, it's used in almost every school of Zen.  Another famous 100-koan collection is <href = "http://www.shambhala.com/book-of-serenity.html" target = "_blank"><em>The Booof Serenity</em></a>, again translated by Cleary.  A bit more mellow than the <em>Blue Cliff</em>, it is associated more with the "Silent Illumination" tendency in Chinese Zethat was carried forward in Japan as the Soto School.  Another Chinese collection that is widely used in Japan is the <em>Wu Men Kuan</em> (the "No-Gate Passage"), a set of forty-two famous koans.  An interesting translation is contained in <a href = "http:www.wisdompubs.org/book/eloquent-silence" target = "_blank"><em>Eloquent Silence</em></a>, a collection of writings and teachings of Nyogen Senzaki.  (Senzaki was a Dharma brother of D.T. Suzuki who settled in California and founded the Floating Zendo, training some important early American Zen practitioners.)  A useful later Japanese collection is <a href = "http://www.wisdompubs.org/book/entangling-vines" target "_blank"><em>Entangling Vines</em></a>, translated by Thomas Yuh&ouml; Kirchner.  The 272 cases in this collection are "bare"&mdash;no commentary or verses&mdash;but Kirchner adds some very helpful notes.
+    The single most influential classical collection of koans is <a href = "https://www.shambhala.com/the-blue-cliff-record-250.html" target = "_blank"><em>The Blue Cliff Record</em></a>, here translated by Thomas Cleary.  There are one hundred koans, each one preceded by a pointer and followed by commentary and a verse.  First complied in 112CE, it's used in almost every school of Zen.  Another famous 100-koan collection is <a href = "https://www.shambhala.com/book-of-serenity-270.html" target = "_blank"><em>The Book of Serenity</em></a>, again translated by Cleary.  A bit more mellow than the <em>Blue Cliff</em>, it is associated more with the "Silent Illumination" tendency in Chinese Zethat was carried forward in Japan as the Soto School.  Another Chinese collection that is widely used in Japan is the <em>Wu Men Kuan</em> (the "No-Gate Passage"), a set of forty-two famous koans.  An interesting translation is contained in <a href = "https://wisdomexperience.org/product/eloquent-silence/" target = "_blank"><em>Eloquent Silence</em></a>, a collection of writings and teachings of Nyogen Senzaki.  (Senzaki was a Dharma brother of D.T. Suzuki who settled in California and founded the Floating Zendo, training some important early American Zen practitioners.)  A useful later Japanese collection is <a href = "https://wisdomexperience.org/product/entangling-vines/" target "_blank"><em>Entangling Vines</em></a>, translated by Thomas Yuh&ouml; Kirchner.  The 272 cases in this collection are "bare"&mdash;no commentary or verses&mdash;but Kirchner adds some very helpful notes.
 </p>
 <p>
-    A most welcome new collection is <a href = "http://www.wisdompubs.org/book/hidden-lamptarget = "_blank"><em>The Hidden Lamp: Stories from Twenty-Five Centuries of AwakeneWomen</em></a>, a collection of one hundred koans and stories edited by Zenshin Florence Caplow and Reigetsu Susan Moon.  Following each story is a reflection by a prominent contemporary female Zen teacher. According to Norman Fisher, who wrote the Forward, the book exemplifies a method of teaching that was known in classical times as the "granting way", the "kindly way of clear and helpful teaching, in which even your confusion and suffering is part of the path.  Practice always takes place in the context of others, awakening is not something you 'get' so much as the relief you experience when you recognize that your life is always right (even when it is difficult) and always shared."
+    A most welcome new collection is <a href = "https://wisdomexperience.org/product/hidden-lamp/" target="_blank"><em>The Hidden Lamp: Stories from Twenty-Five Centuries of AwakeneWomen</em></a>, a collection of one hundred koans and stories edited by Zenshin Florence Caplow and Reigetsu Susan Moon.  Following each story is a reflection by a prominent contemporary female Zen teacher. According to Norman Fisher, who wrote the Forward, the book exemplifies a method of teaching that was known in classical times as the "granting way", the "kindly way of clear and helpful teaching, in which even your confusion and suffering is part of the path.  Practice always takes place in the context of others, awakening is not something you 'get' so much as the relief you experience when you recognize that your life is always right (even when it is difficult) and always shared."
 </p>
 <p>
-    In modern times the thirteenth-century Japanese Zen Master and literary figure Eihei Dogen has come to be widely respected outside of the Silent Illumination/Soto School.  Kazuaki Tanahashi has worked with a number of colleagues to produce very poetic translations of Dogen's essays.  Two good collections are: <a href = "http://umacmillan.com/mooninadewdrop/eiheidogen" target = "_blank"><em>Moon in a Dewdrop</em>a> and <a href = "http://www.shambhala.com/enlightenment-unfolds.html" target "_blank"><em>Enlightenment Unfolds</em></a>.
+    In modern times the thirteenth-century Japanese Zen Master and literary figure Eihei Dogen has come to be widely respected outside of the Silent Illumination/Soto School.  Kazuaki Tanahashi has worked with a number of colleagues to produce very poetic translations of Dogen's essays.  Two good collections are: <a href = "https://us.macmillan.com/books/9780865471863" target="_blank"><em>Moon in a Dewdrop</em></a> and <a href = "https://www.shambhala.com/enlightenment-unfolds-544.html" target="_blank"><em>Enlightenment Unfolds</em></a>.
 </p>
 <p>
-    Zen Master Keizan was a successor of Dogen and functionally the founder of the Soto School.  <a href = "http://www.wisdompubs.org/book/record-transmitting-light" target "_blank"><em>The Record of Transmitting the Light</em></a>, translated by Francis Doju Cook and John Daido Loori, gives the enlightenment/transmission stories of every member of the lineage from Shakyamuni Buddha through Dogen and Koun Ejo, Keizan's own teacher.
+    Zen Master Keizan was a successor of Dogen and functionally the founder of the Soto School.  <a href = "https://wisdomexperience.org/product/record-transmitting-light/" target="_blank"><em>The Record of Transmitting the Light</em></a>, translated by Francis Doju Cook and John Daido Loori, gives the enlightenment/transmission stories of every member of the lineage from Shakyamuni Buddha through Dogen and Koun Ejo, Keizan's own teacher.
 </p>
 <p>
-    The life and teachings of the fourteenth-century Japanese master Bassui Tokush&#333; are strongly reminiscent of the solitary and intense but informal style of Korean Zen.  Consider reading <a href = "http://www.wisdompubs.org/book/mud-and-water" target "_blank"><em>Mud and Water</em></a>, Arthur Braverman's translation of the collected teachings of Bassui.
+    The life and teachings of the fourteenth-century Japanese master Bassui Tokush&#333; are strongly reminiscent of the solitary and intense but informal style of Korean Zen.  Consider reading <a href = "https://wisdomexperience.org/product/mud-and-water/" target="_blank"><em>Mud and Water</em></a>, Arthur Braverman's translation of the collected teachings of Bassui.
 </p>
 <p>
-    The seventeenth-century Japanese master Bankei is an outlier, a rebel and a salutary corrective to, well, just about everything that afflicts a person who takes up Zen.  The relevant source is Peter Haskell's <a href = "https://groveatlantic.com/book/bankei-zen/" target = "_blank"><em>Bankei Zen</em></a>.
+    The seventeenth-century Japanese master Bankei is an outlier, a rebel and a salutary corrective to, well, just about everything that afflicts a person who takes up Zen.  The relevant source is Peter Haskell's <a href = "https://groveatlantic.com/book/bankei-zen/" target="_blank"><em>Bankei Zen</em></a>.
 </p>
 
 ### Korean
 
 <p>
-    The spiritual founder of Korean Zen is Chinul.  Consult <a href = "http://www.uhpreshawaii.edu/p-860-9780824814274.aspx" target = "_blank"><em>Tracing Back the Radianceem></a>, a collection of excerpts from Chinul's works edited and translated by RoberBuswell.  Buswell is a Buddhist scholar with a background of monastic practice iKorea.  Check out his <a href = "http://press.princeton.edu/titles/4978.html" target "_blank"><em>The Zen Monastic Experience:  Buddhist Practice in Contemporary Korea</em>a>.  Both books include good historical introductions to Korean Buddhism.
-</p
+    The spiritual founder of Korean Zen is Chinul.  Consult <a href = "https://uhpress.hawaii.edu/title/tracing-back-the-radiance-chinuls-korean-way-of-zen/" target="_blank"><em>Tracing Back the Radianceem></em></a>, a collection of excerpts from Chinul's works edited and translated by RoberBuswell.  Buswell is a Buddhist scholar with a background of monastic practice iKorea.  Check out his <a href = "https://press.princeton.edu/books/paperback/9780691034775/the-zen-monastic-experience" target "_blank"><em>The Zen Monastic Experience:  Buddhist Practice in Contemporary Korea</em></a>.  Both books include good historical introductions to Korean Buddhism.
+</p>
 <p>
-    In terms of formal lineage, all modern Korean Zen masters descend from T'aego.  JohCleary has translated a nice collection of T'aego's teachings and poetry in <a href "http://www.shambhala.com/a-buddha-from-korea.html" target = "_blank"><em>A Buddha froKorea</em></a>.
-</p
+    In terms of formal lineage, all modern Korean Zen masters descend from T'aego.  John Cleary has translated a nice collection of T'aego's teachings and poetry in <a href "https://www.shambhala.com/a-buddha-from-korea.html" target = "_blank"><em>A Buddha from Korea</em></a>.
+</p>
 <p>
-    The sixteenth-century master So Sahn wrote what could be considered the "starting outguide for Korean monks and nuns.  See <a href = "http://www.shambhala.cothe-mirror-of-zen.html
-    " target = "_blank"><em>The Mirror of Zen</em></a>, translated by Boep Joeng and HyoGak.
-</p
+    The sixteenth-century master So Sahn wrote what could be considered the "starting-out" guide for Korean monks and nuns.  See <a href = "https://www.shambhala.com/the-mirror-of-zen.html/" target="_blank"><em>The Mirror of Zen</em></a>, translated by Boep Joeng and HyoGak.
+</p>
 <p>
-    The most popular form of Korean Zen (among Western converts) was brought to the UniteStates by <a href = "https://en.wikipedia.org/wiki/Seungsahn" target = "_blank">SeunSahn</a>.  Among his many books are:
+    The most popular form of Korean Zen (among Western converts) was brought to the United States by <a href = "https://en.wikipedia.org/wiki/Seungsahn" target = "_blank">Seung Sahn</a>.  Among his many books are:
     <ul>
-        <li><a href = "http://www.groveatlantic.com/?title=Dropping+Ashes+On+the+Buddhatarget = "_blank"><em>Dropping Ashes on the Buddha</em></a>, Grove Press, 1994.Concerning this book one of our Sangha members says:  "People will probably tell yothat it isn't a good book for beginners, but this book is what got me hooked on ZenIt was the third book I read about Zen. I didn't understand anything it said, but knew it said something profound. I still don't understand anything it says, but know it says something profound."</li>
-        <li><a href = "http://www.shambhala.com/the-compass-of-zen.html" target "_blank"><em>The Compass of Zen</em></a>, Shambhala Publications, 1997.</li>
+        <li><a href = "https://groveatlantic.com/book/dropping-ashes-on-the-buddha/" target="_blank"><em>Dropping Ashes on the Buddha</em></a>, Grove Press, 1994.Concerning this book one of our Sangha members says:  "People will probably tell yothat it isn't a good book for beginners, but this book is what got me hooked on Zen. It was the third book I read about Zen. I didn't understand anything it said, but knew it said something profound. I still don't understand anything it says, but I know it says something profound."</li>
+        <li><a href = "https://www.shambhala.com/the-compass-of-zen-419.html" target="_blank"><em>The Compass of Zen</em></a>, Shambhala Publications, 1997.</li>
     </ul>
 </p>
 
 <p>
-  Our Founding Teacher, Zen Master Dae Gak, is a Dharma heir of Seung Sahn and is the authoof the following two books:
+  Our Founding Teacher, Zen Master Dae Gak, is a Dharma heir of Seung Sahn and is the author of the following two books:
     <ul>
     <li><em>Going Beyond Buddha:  The Awakening Practice of Listening</em>, Tuttle Press1997.  Available from Furnace Mountain.</li>
-    <li><a href = "http://zenmind.org/uprightwithpoiseandgrace.html" target "_blank"><em>Upright with Poise and Grace:  Coming Forward as You Are</em></a>, GnomoPress, 2012.</li>
+    <li><a href = "https://www.amazon.com/Upright-Poise-Grace-Dae-Gak/dp/0917788958/ref=sr_1_1?ie=UTF8&qid=1475017611&sr=8-1&keywords=upright+with+poise+and+grace" target="_blank"><em>Upright with Poise and Grace:  Coming Forward as You Are</em></a>, Gnomon Press, 2012.</li>
     </ul>
 </p>
       
@@ -164,27 +163,27 @@ Bearing in mind Dogen's advice, we provide here a listing of English-language so
 ## Mahayana Source
 
 <p>
-  Of the numerous Mahayana sutras, for modern Zen students the Perfect Wisdom literaturtakes pride of place.  Edward Conze provides a solid translations of Sanskrit versions otwo important short sutras in <a href = "http://www.amazon.coBuddhist-Wisdom-Diamond-Sutra-Heart/dp/0375726004" target = "_blank"><em>Buddhist WisdomThe Diamond Sutra and The Heart Sutra</em></a>.  Both works are accompanied by verhelpful notes.  The Heart Sutra also has the original Sanskrit (in Romanized type).
+  Of the numerous Mahayana sutras, for modern Zen students the Perfect Wisdom literature takes pride of place.  Edward Conze provides solid translations of Sanskrit versions of two important short sutras in <a href = "https://www.amazon.com/Buddhist-Wisdom-Diamond-Sutra-Heart/dp/0375726004" target = "_blank"><em>Buddhist Wisdom: The Diamond Sutra and The Heart Sutra</em></a>.  Both works are accompanied by very helpful notes.  The Heart Sutra also has the original Sanskrit (in Romanized type).
 </p>
 
 <p>
-  Conze translated a great deal of Perfect Wisdom literature, including the centradocument:  <a href = "http://www.citylights.com/book/?GCOI=87286100675230" target "_blank"><em>The Perfection of Wisdom In Eight Thousand Lines & Its Verse Summary</em></a>.  Don't miss Chapter 30, the story of the very earnest Sad&amacr;prarudit("Ever-Weeping").
+  Conze translated a great deal of Perfect Wisdom literature, including the central document:  <a href = "http://www.citylights.com/book/?GCOI=87286100675230" target "_blank"><em>The Perfection of Wisdom In Eight Thousand Lines & Its Verse Summary</em></a>.  Don't miss Chapter 30, the story of the very earnest Sad&amacr;prarudita ("Ever-Weeping").
 </p>
 
 <p>
-  The massive Avatamsaka Sutra, extant mostly in Chinese, is the considered throot-scripture for the Hua-Yen (Flower-Ornament) School of Buddhist thought, from whicZen draws much inspiration.  Thomas Cleary provides a complete translation in <a href "http://www.shambhala.com/the-flower-ornament-scripture.html" target = "_blank"><em>ThFlower Ornament Scripture</em></a>.  The final portion, which describes the spirituajourney of the young seeker Sudhana to 52 enlightened teachers, is extant in Sanskrit as separate sutra known as the Ga&#7751;&#7693;avy&umacr;ha.  For an overview of Hua-yethought see Francis H. Cook's <a href = "http://www.psupress.org/books/title0-271-02190-X.html" target = "_blank"><em>Hua-Yen Buddhism:  The Jewel Net of Indra</em></a>.
+  The massive Avatamsaka Sutra, extant mostly in Chinese, is the considered the root-scripture for the Hua-Yen (Flower-Ornament) School of Buddhist thought, from which Zen draws much inspiration.  Thomas Cleary provides a complete translation in <a href "https://www.shambhala.com/the-flower-ornament-scripture-618.html" target = "_blank"><em>The Flower Ornament Scripture</em></a>.  The final portion, which describes the spiritual journey of the young seeker Sudhana to 52 enlightened teachers, is extant in Sanskrit as separate sutra known as the Ga&#7751;&#7693;avy&umacr;ha.  For an overview of Hua-yen thought see Francis H. Cook's <a href = "http://www.psupress.org/books/titles/0-271-02190-X.html" target = "_blank"><em>Hua-Yen Buddhism:  The Jewel Net of Indra</em></a>.
 </p>
 <p>
-  If you plan to read only one of the "longer" sutras, let it be the Lotus Sutra of thPerfect Law.  Although it is not especially connected to Zen it is beloved in all of thschools of East Asian Buddhism.  Savor the happy mood, the vigorous poetry, and thstriking images and tales: the Burning House, the Phantom City, the Daughter of the DragoKing, the virtues of Avalokiteshvara, the Bodhisattva who hears the world's cries, anmany others that have worked their way into Asian culture.  The best version is thChinese translation by Kumarajiva; a very good recent English rendering of this is BurtoWatson's <a href = "http://cup.columbia.edu/search-results?keyword=lotus+sutra" target "_blank"><em>The FLotus Sutra</em></a>.
+  If you plan to read only one of the "longer" sutras, let it be the Lotus Sutra of the Perfect Law.  Although it is not especially connected to Zen it is beloved in all of the schools of East Asian Buddhism.  Savor the happy mood, the vigorous poetry, and the striking images and tales: the Burning House, the Phantom City, the Daughter of the Dragon King, the virtues of Avalokiteshvara, the Bodhisattva who hears the world's cries, and many others that have worked their way into Asian culture.  The best version is the Chinese translation by Kumarajiva; a very good recent English rendering of this is Burton Watson's <a href = "http://cup.columbia.edu/book/the-lotus-sutra/9780231081610" target="_blank"><em>The FLotus Sutra</em></a>.
 </p>
 <p>
-  For keeping track of the various Mahayana schools and texts you probably can't do bettethan <a href = "http://www.amazon.com/Mahayana-Buddhism-Doctrinal-Foundations-Religious/d0415356539" target = "_blank"><em>Mahayana Buddhism: The Doctrinal Foundations</em></a> bPaul Williams.
+  For keeping track of the various Mahayana schools and texts you probably can't do better than <a href = "https://www.amazon.com/Mahayana-Buddhism-Doctrinal-Foundations-Religious/dp/0415356539/ref=sr_1_2?dchild=1&keywords=paul+williams+mahayana+buddhism&qid=1594680151&sr=8-2" target = "_blank"><em>Mahayana Buddhism: The Doctrinal Foundations</em></a> by Paul Williams.
 </p>
 
 ## Poetry
 
 <p>
-    Just a modest offering for now:  may it grow with further reading and with thsuggestions of Sangha members.
+    Just a modest offering for now:  may it grow with further reading and with the suggestions of Sangha members.
 </p>
   
       
@@ -192,7 +191,7 @@ Bearing in mind Dogen's advice, we provide here a listing of English-language so
 ### Chia Tao
 
 <p>
-  Chia Tao (779-843 CE) was a Chinese Zen monk who left monastic life at the age othirty-one, probably to pursue poetry more exclusively.  Although no longer a monk he kepup his Zen connections and Buddhism figures prominently in his poetry.  Mike O'Connotranslates selected poems of Chia Tao in <a href = "http://www.wisdompubs.org/boowhen-i-find-you-again-it-will-be-mountains" target = "_blank"><em>When I Find You Again iWill be in Mountains</em></a>.  Although he was recognized in his lifetime as one of thleading poets of the age, he was less fortunate in his professional life as a mid-levecivil servant, being caught up toward the end of his life in political intrigue ansuffering banishment to a minor province.  His translator says that he died with only twknown possessions:  "a donkey in bad health and a five-string zither."  A sample of hiwork:
+  Chia Tao (779-843 CE) was a Chinese Zen monk who left monastic life at the age of thirty-one, probably to pursue poetry more exclusively.  Although no longer a monk he kept up his Zen connections and Buddhism figures prominently in his poetry.  Mike O'Connor translates selected poems of Chia Tao in <a href = "https://wisdomexperience.org/product/when-i-find-you-again-it-will-be-mountains/" target = "_blank"><em>When I Find You Again iWill be in Mountains</em></a>.  Although he was recognized in his lifetime as one of the leading poets of the age, he was less fortunate in his professional life as a mid-level civil servant, being caught up toward the end of his life in political intrigue and suffering banishment to a minor province.  His translator says that he died with only two known possessions:  "a donkey in bad health and a five-string zither."  A sample of his work:
 </p>
 
 
@@ -227,7 +226,7 @@ an immortal.<br>
 ### Stonehouse
       
 <p>
-Stonehouse (Shiwu, born 1272 CE) was a Chinese hermit who spent much of his life in hutthat hebuilt for himself near the peak of the Hsiamushan mountain near Houchou iSouthern China. Among his many visitors was the Korean monk Tae'go, to whom Stonehoustransmitted the Dharma in1347 CE.  (Tae'go returned to Korean and established the Zelineage there formally, makingStonehouse a Dharma ancestor of Furnace Mountain and thLexington Zen Center.)  Red Pine hastranslated a collection of Stonehouse's poems as <href = "https://www.coppercanyonpress.orgpages/browse/book.asbg=%7BB515715C-0224-4C37-84AB-AC786FE22FE7%7D" target = "_blank"><em>TheMountain Poemof Stonehouse</em></a>.  The volume concludes with an engaging account of RedPine's owjourney to Hsiamushan and his rediscovery of Stonehouse's hermitage-sites.  One of his poems:
+Stonehouse (Shiwu, born 1272 CE) was a Chinese hermit who spent much of his life in huts that he built for himself near the peak of the Hsiamushan mountain near Houchou in Southern China. Among his many visitors was the Korean monk Tae'go, to whom Stonehouse transmitted the Dharma in 1347 CE.  (Tae'go returned to Korea and established the Zen lineage there formally, making Stonehouse a Dharma ancestor of Furnace Mountain and the Lexington Zen Center.)  Red Pine has translated a collection of Stonehouse's poems as <href = "https://www.coppercanyonpress.org/books/the-mountain-poems-of-stonehouse-by-stonehouse-tr-bill-porter-red-pine/" target = "_blank"><em>The Mountain Poems of Stonehouse</em></a>.  The volume concludes with an engaging account of RedPine's own journey to Hsiamushan and his rediscovery of Stonehouse's hermitage-sites.  One of his poems:
 </p>
 
 <p>
@@ -249,7 +248,7 @@ relaxing all day in a teetering hut
 ### Ryokan
 
 <p>
-  Ryokan (1758-1831 CE) is one of the most popular Zen poet-monks.  Kazuaki Tanahashtranslates a number of his poems and provides an excellent biography and criticaappraisal in <a href = "http://www.shambhala.com/sky-above-great-wind.html" target "_blank"><em>Sky Above, Great Wind</em></a>.  The title is of this volume is a poem thaRyokan wrote on a kite at the request of a child.  Another of his poems, inscribed on portrait:
+  Ryokan (1758-1831 CE) is one of the most popular Zen poet-monks.  Kazuaki Tanahashi translates a number of his poems and provides an excellent biography and critical appraisal in <a href = "https://www.shambhala.com/sky-above-great-wind-2099.html" target="_blank"><em>Sky Above, Great Wind</em></a>.  The title is of this volume is a poem that Ryokan wrote on a kite at the request of a child.  Another of his poems, inscribed on a portrait:
 </p>
 
 <blockquote>
@@ -259,11 +258,6 @@ Except for the marks of a frosty-hair brush<br>
 human traces are hard to find.<br>
 <br>     
 </blockquote>
-
-      
-     
-      
-      
       
 ### Rengetsu
 
@@ -273,15 +267,15 @@ human traces are hard to find.<br>
   accomplished:  a professional-level player of the game of 
   Go, a martial-arts master, an ordained Pure Land nun who 
   also studied Zen and esoteric Buddhism, a patron of the arts 
-  and tireless fundraiser for victims of naturual disasters, 
+  and tireless fund0-raiser for victims of natural disasters, 
   she was also one of the most acclaimed calligraphers of her 
   era &mdash; all of this while she raised two children as a 
-  widowed mother, making her living as a potter.  She was also 
+  widowed mother, and making her living as a potter.  She was also 
   a highly-regarded poet.  Although collections of her poetry 
   were published while she was still alive, much of her work 
-  also survive as inscriptions on the pottery she produced.  
+  survives as inscriptions on the pottery she produced.  
   John Stevens translates a selection of her poems as 
-  <a href = "http://www.whitepine.org/catalog.php?series=1" target = "_blank"><em>LotuMoon</em></a>, 
+  <a href = "http://lemuriablog.com/lotus-moon/" target = "_blank"><em>Lotus Moon</em></a>, 
   which contains an Afterward by Bonnie Myotai Treace that 
   encourages a multi-level approach to Rengetsu's deceptively 
   simple verse.  Here is a sample:
@@ -301,11 +295,11 @@ The heart of things.
 ## Miscellaneous Sites
   
 <ul>
-<li><a href = "http://www.thezensite.com/" target = "_blank">thezensite</a> (many texts anarticles)</li>
-<li><a href = "http://sweepingzen.com/" target = "_blank">Sweeping Zen</a> (news, gossipwho's who)</li>
-<li><a href = "http://www.buddhistpeacefellowship.org/" target = "_blank">Buddhist PeacFellowship</a> (one flavor of Engaged Buddhism)</li>
-<li><a href = "http://hardcorezen.info/" target = "_blank">Hardcore Zen:  by Brad Warner</a(often amusing)</li>
-<li><a href = "<li><a href = "http://www.dsbcproject.org/" target = "_blank">DigitaSanskrit Buddhist Canon</a></li>
-<li><a href = "http://www.zafu.net/" target = "_blank">Carolina Morning</a> (meditatiosupplies)</li>
-<li><a href = "http://www.dharmacrafts.com/" target = "_blank">Dharma Crafts</a> (mormeditation supplies)</li>
+<li><a href = "http://www.thezensite.com/" target = "_blank">thezensite</a> (many texts and articles)</li>
+<li><a href = "http://sweepingzen.com/" target = "_blank">Sweeping Zen</a> (news, gossip, who's who)</li>
+<li><a href = "http://www.buddhistpeacefellowship.org/" target = "_blank">Buddhist Peace Fellowship</a> (one flavor of Engaged Buddhism)</li>
+<li><a href = "http://hardcorezen.info/" target = "_blank">Hardcore Zen:  by Brad Warner</a>(often amusing)</li>
+<li><a href = "http://www.dsbcproject.org/" target = "_blank">Digital Sanskrit Buddhist Canon</a></li>
+<li><a href = "http://www.zafu.net/" target = "_blank">Carolina Morning</a> (meditation supplies)</li>
+<li><a href = "http://www.dharmacrafts.com/" target = "_blank">Dharma Crafts</a> (more meditation supplies)</li>
 </ul>
