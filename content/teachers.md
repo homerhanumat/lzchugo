@@ -1,8 +1,8 @@
 ---
 title: Teachers
 featured_image: "images/pine_tree_fm.jpg"
-omit_header_text: true
-description: We'd love to hear from you
+omit_header_text: false
+description: "\"I do not say that there is no Zen, only that there are no teachers of Zen.\" Huang Po"
 type: page
 ---
 
