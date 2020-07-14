@@ -8,7 +8,7 @@ type: page
 
 ## Muhan Shim Son Sa (Daniela Herzog)
 
-<img src="/images/daniela.jpg" alt="Daniel Herzog (Myong Soen Son Sa)" />
+<img class="image-right-250" src="/images/daniela.jpg" alt="Daniel Herzog (Myong Soen Son Sa)" />
 
 Muhan Shim (Daniela Herzog) is the Vice Abbess of Furnace Mountain and serves as Guiding Teacher for the Lexington Zen Center.
 
@@ -19,22 +19,22 @@ In 2004 she received Inga (permission to teach) in the lineage of Zen Master Dae
 Muhan Shim has a masters degree in education and works as a certified professional coach. She is trained in compassionate communication (NVC), voice dialogue, focusing, systemic constellation work and Naikan and includes those modalities in her work with Zen students.
 
 She is especially interested in how death informs life, and invites inquiry into the great matter of birth and death as a co-host of regular &ldquo;Death Cafés&rdquo; in the Bluegrass and Red River Gorge area of Eastern Kentucky.
-    
+
+
+
 ## Hae Mun (Tyson Davis)
 
-<img src="/images/tyson_davis.jpeg" alt="Tyson Davis (Hae Mun)" />
-
+<img class="image-left-250" src="/images/tyson_davis.jpeg" alt="Tyson Davis (Hae Mun)" />
 Tyson became a “book Buddhist” in 1997 when his only exposure to Buddhism was the small local bookstore in western Kentucky that had a half dozen books about Zen. He began a formal practice several years after moving to Lexington Kentucky. He has studied with several teachers over the years, but began studying under Zen Master Muhan Shim when she became Guiding Teacher of the Lexington Zen Center. Tyson became abbot of the Lexington Zen Center in 2017 and was named Senior Dharma Teacher in 2019.
 
 Tyson is a financial consultant at a regional firm in Lexington. He grew up on a farm in western Kentucky and still goes back to visit his parents and ride the tractor every now and then.
 
+
 ## Dae Gak
 
-<img src="/images/dae-gak.jpg" alt="Zen Master Dae Gak" />
+<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;"  src="/images/dae-gak.jpg" alt="Zen Master Dae Gak" />
 
-Our Founding Teacher is Zen Master Dae Gak, who also resides at Furnace Mountain.
-
-Dae Gak is a Dharma heir of Zen Master Seung Sahn, and is the author of two books:
+Our Founding Teacher is Zen Master Dae Gak, who also resides at Furnace Mountain.  He is a Dharma heir of Zen Master Seung Sahn, and is the author of two books:
 * _Going Beyond Buddha:  The Awakening Practice of Listening_, Tuttle Press, 1997.  Available from Furnace Mountain.
 * <a href = "http://zenmind.org/uprightwithpoiseandgrace.html" target = "_blank">_Upright with Poise and Grace:  Coming Forward as You Are_</a>, Gnomon Press, 2012.
     
