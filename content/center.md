@@ -1,6 +1,6 @@
 ---
 title: "The Center"
-featured_image: "images/more/immortal.png"
+featured_image: "images/more/immortal.jpg"
 omit_header_text: true
 description:
 type: page
@@ -15,6 +15,6 @@ Several times a year we hold a day-long retreat and we have open Sangha meetings
 ### Image Credit
 
 _The Thatched Hut of Dreaming of an Immortal_, Freer Gallery of Art<br>
-<a href="https://asia.si.edu/object/F1939.60/">https://asia.si.edu/object/F1939.60/</a><br>
+<a href="https://asia.si.edu/object/F1939.60/" target="_blank">https://asia.si.edu/object/F1939.60/</a><br>
 (accessed 7/16/2020, 11:39:13 AM).
 

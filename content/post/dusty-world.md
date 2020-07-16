@@ -1,7 +1,7 @@
 ---
 date: 2016-06-19T16:00:00
 description: "A dharma talk given by Daniela (Myong Soen Son Sa) at the Lexington Zen Center, June 19, 2016."
-featured_image: "/images/pond.png"
+featured_image: "/images/pond.jpg"
 tags: ["zen", "nakagawa-soen"]
 title: "The Dusty World"
 ---
