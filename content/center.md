@@ -1,6 +1,6 @@
 ---
 title: "The Center"
-featured_image: "images/immortal.png"
+featured_image: "images/more/immortal.png"
 omit_header_text: true
 description:
 type: page

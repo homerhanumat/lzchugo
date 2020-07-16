@@ -1,6 +1,6 @@
 ---
 title: Teachers
-featured_image: "images/more/flags.png"
+featured_image: "images/more/flags.jpeg"
 omit_header_text: true
 description: ""
 type: page
