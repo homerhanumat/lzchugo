@@ -1,10 +1,17 @@
 ---
 title: Teachers
-featured_image: "images/pine_tree_fm.jpg"
-omit_header_text: false
-description: "\"I do not say that there is no Zen, only that there are no teachers of Zen.\" Huang Po"
+featured_image: "images/more/flags.png"
+omit_header_text: true
+description: ""
 type: page
 ---
+
+<blockquote>
+<em>I do not say that there is no Zen,
+I only say that there are no teachers of Zen.</em>
+
+&mdash; Huang Po
+</blockquote>
 
 ## Muhan Shim Son Sa (Daniela Herzog)
 

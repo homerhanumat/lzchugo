@@ -19,9 +19,13 @@
       <link href="{{ relURL (printf "%s%s" "dist/" .) }}" rel="stylesheet">
     {{ end }}
 
-    {{ with .Site.Params.custom_css }}
-      <link rel="stylesheet" href="/css/{{ . }}">
-    {{ end }}
+    {{ $sassTemplate := resources.Get "sass/template.scss" }}
+    <script>
+      console.log("hugo: ", {{ $sassTemplate | jsonify }});
+    </script>
+    {{ $style := $sassTemplate | resources.ExecuteAsTemplate "main.scss" . | toCSS | minify | fingerprint }}
+    
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
 
     {{ block "favicon" . }}
       {{ partialCached "site-favicon.html" . }}

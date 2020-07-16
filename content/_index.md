@@ -1,6 +1,6 @@
 ---
 title: "The Lexington Zen Center"
-featured_image: '/images/fm_sky_header.jpg'
+featured_image: '/images/more/sunset-view-header.jpg'
 description: "Nothing in the Universe is Hidden"
 ---
 

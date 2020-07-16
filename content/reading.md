@@ -1,6 +1,6 @@
 ---
 title: "Suggested Reading"
-featured_image: "/images/fm_temple_view.jpg"
+featured_image: "/images/more/bamboo.jpg"
 omit_header_text: true
 description: ""
 type: page

@@ -2,7 +2,7 @@
 title: "The Center"
 featured_image: "images/immortal.png"
 omit_header_text: true
-description: We'd love to hear from you
+description:
 type: page
 ---
 
@@ -11,3 +11,10 @@ The Lexington Zen Center was founded in 1980 by Zen Master Dae Gak of <a href="h
 Our primary regular activity is a weekly meditation service.  We also have a book group that meets roughly every other week, prior to meditation period.
   
 Several times a year we hold a day-long retreat and we have open Sangha meetings as needed to discuss business and to reflect on the future direction of the Center.
+
+### Image Credit
+
+_The Thatched Hut of Dreaming of an Immortal_, Freer Gallery of Art<br>
+<a href="https://asia.si.edu/object/F1939.60/">https://asia.si.edu/object/F1939.60/</a><br>
+(accessed 7/16/2020, 11:39:13 AM).
+
