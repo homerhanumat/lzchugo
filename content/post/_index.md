@@ -1,6 +1,6 @@
 ---
 title: "Articles"
-featured_image: "images/more/bush.JPG"
+featured_image: "images/more/bush-header.JPG"
 description: ""
 ---
 
