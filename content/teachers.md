@@ -6,12 +6,9 @@ description: ""
 type: page
 ---
 
-<blockquote>
-<em>I do not say that there is no Zen,
-I only say that there are no teachers of Zen.</em>
-
+><em>I do not say that there is no Zen,<br>
+I only say that there are no teachers of Zen.</em><br><br>
 &mdash; Huang Po
-</blockquote>
 
 ## Muhan Shim Son Sa (Daniela Herzog)
 
@@ -43,13 +40,11 @@ Tyson is a financial consultant at a regional firm in Lexington. He grew up on a
 
 Our Founding Teacher is Zen Master Dae Gak, who also resides at Furnace Mountain.  He is a Dharma heir of Zen Master Seung Sahn, and is the author of two books:
 * _Going Beyond Buddha:  The Awakening Practice of Listening_, Tuttle Press, 1997.  Available from Furnace Mountain.
-* <a href = "http://zenmind.org/uprightwithpoiseandgrace.html" target = "_blank">_Upright with Poise and Grace:  Coming Forward as You Are_</a>, Gnomon Press, 2012.
+* <a href = "http://zenmind.org/uprightwithpoiseandgrace.html" target = "_blank"><em>Upright with Poise and Grace:  Coming Forward as You Are</em></a>, Gnomon Press, 2012.
     
 Here is one of Dae Gak's poems:
 
-<strong>
-  Put On Your Robe
-</strong><br>
+__Put On Your Robe__
 
 <blockquote>
 Put on your robe, your gown, your dancing shoes, your vestments.<br>
