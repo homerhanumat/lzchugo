@@ -102,11 +102,18 @@ enableEmoji = true
   weight = 2
 
 [[menu.main]]
+  identifier = "chants"
+  name = "Chants"
+  parent = "more"
+  url = "/chants/"
+  weight = 3
+
+[[menu.main]]
   identifier = "resources"
   name = "Reading"
   parent = "more"
   url = "/reading/"
-  weight = 3
+  weight = 4
 
 [[menu.main]]  
   identifier = "donate"
