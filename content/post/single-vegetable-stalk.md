@@ -1,9 +1,13 @@
 ---
+title: A Single Vegetable Stalk
 date: 2018-06-03T16:00:00
-description: "An impromptu student talk given by Homer White at the Lexington Zen Center, June 3, 2018."
-featured_image: "/images/vegetable-stalk.jpg"
-tags: ["zen", "dogen", "antaiji"]
-title: "A Single Vegetable Stalk"
+description: An impromptu student talk given by Homer White at the Lexington Zen
+  Center, June 3, 2018.
+featured_image: /images/vegetable-stalk.jpg
+tags:
+  - zen
+  - dogen
+  - antaiji
 draft: false
 ---
 
@@ -28,14 +32,12 @@ But Dogen has various numinous suggestions for how to pull it off, each of which
 
 Dogen says:
 
-<blockquote>
-   <em>Harmonizing yourself,<br>
+>_Harmonizing yourself,<br>
    do not lose either the one eye<br>
    or the two eyes.<br>
    Making yourself into a six-foot body,<br>
    ask that six-foot body to prepare<br>
-   a single vegetable stalk.</em>
-</blockquote>
+   a single vegetable stalk._
 
 "One eye" refers to *prajna*, gone-beyond wisdom, the realization of the unimpeded interprenetration of phenomena, of the sky-like absence of true boundaries between self and other, self and Buddha, of Buddha-nature pervading all&mdash;the realization of that, in the coming forth *as that*. The "two eyes" are your ordinary discriminating consciousness, by which you function in the world.  Though the two eyes may appear to be restricted to the delusory level of name-and-form world, we will see that for Dogen they are how your prajna manifests itself authentically.
 
