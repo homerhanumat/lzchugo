@@ -1,7 +1,8 @@
 ---
-title: "\"I Alone am the Holy One\""
+title: '"I Alone am the Holy One"'
 date: 2018-11-11T16:00:00
-description: A dharma talk given by Daniela (Muhan Shim Son Sa) at the Lexington Zen Center, November 11, 2018.
+description: A dharma talk given by Daniela (Muhan Shim Son Sa) at the Lexington
+  Zen Center, November 11, 2018.
 featured_image: /images/uploads/spiral-speak.png
 tags:
   - zen
@@ -9,11 +10,10 @@ tags:
   - belonging
 draft: false
 ---
-
-
->Soon after Shakyamuni Buddha was born, he could already walk. 
-He took seven steps and said: "After countless eons, this is my last birth. Among all the devas and humans, I am the most honorable and the most excellent. In this lifetime I will benefit devas and humans. I vow to bring universal salvation to all sentient beings." After Buddhism was transmitted to China, this statement of Shakyamuni's was expressed as the saying: *In Heaven and on Earth, I alone am the honored one.*
-
+> {{< figure src="undefined" title="undefined" >}}
+>
+> Soon after Shakyamuni Buddha was born, he could already walk. 
+> He took seven steps and said: "After countless eons, this is my last birth. Among all the devas and humans, I am the most honorable and the most excellent. In this lifetime I will benefit devas and humans. I vow to bring universal salvation to all sentient beings." After Buddhism was transmitted to China, this statement of Shakyamuni's was expressed as the saying: *In Heaven and on Earth, I alone am the honored one.*
 
 This is a quote from a book titled *Basic Buddhism: Exploring Buddhism and Zen* by Master Nan Huai-Chin, a Chinese contemporary spiritual teacher, regarded by many as responsible for the revival of Chan Buddhism in modern China. He died in 2012.
 
@@ -31,11 +31,9 @@ And what about our journey?
 
 In the unfolding of my life I have made some drastic life choices, either out of a sense of not belonging (at all/anymore) or out of a longing to belong&mdash;to something I wasn't even capable of naming. As a young woman I traveled all of Europe, a street musician searching for the meaning of life and hoping to find a place of belonging, to find *home*: something that felt like *roots*; because roots ground us in belonging&mdash;roots to a place, roots to people, roots in relations, roots created through stories of connection, roots created through together-action.
 
-<p><label for="walking-home" class="margin-toggle">&#8853;</label><input type="checkbox" id="walking-home" class="margin-toggle"/><span class="marginnote"><img src="/images/walking_home.png" alt="Walking Each Other Home" /><em>Walking Each Other Home</em>, by Dorsey McHugh</span>
-For generations the people I descend from have been uprooted, generation after generation, person after person.  Their stories and hopes of belonging were shattered into pieces, again and again: fathers missing in the family line because they were killed in war, mothers disappearing, life-threatening famine, people displaced&mdash;fleeing either from incoming invasions or from political and economic violence.</p>
+<img class="image-right-250" src="/images/uploads/walking-home.png" alt="walking each other home by dorothy mchugh>For generations the people I descend from have been uprooted, generation after generation, person after person.  Their stories and hopes of belonging were shattered into pieces, again and again: fathers missing in the family line because they were killed in war, mothers disappearing, life-threatening famine, people displaced&mdash;fleeing either from incoming invasions or from political and economic violence.
 
 They all left pieces of their hearts and roots in their *Heimat*, at *home*, and bravely created a new life for themselves and their families wherever those tempestuous times had tossed them to shore.
-
 
 I think if we dare to look, we find that this is true for all human beings: Most of us come from people who have either uprooted themselves or have been uprooted; and the need to *go on*, the need to create a new life for themselves and their families meant to leave untouched an oozing wound of grief and of lingering, unbearable loss.
 
@@ -58,8 +56,6 @@ As human species we have perfected the art of othering, alienating ourselves fro
 Greed, hatred, ignorance and depression are the price we pay, culminating in intrapersonal and interpersonal conflict and violence, in war after war, and lately in scorched earth and climate change on run off.
 This clearly is not the "I" intended by the hagiographic saying of baby Siddhartha: *Above the heavens, below the earth, I alone am the Holy one*.
 
-
-
 We just finished a Kido retreat at Furnace Mountain Zen Center. Ki-Do means *Energy Path*. *Ki* is the same as *Chi* in Chinese, *Prana* in Sanskrit. Kido is a chanting retreat, where we practice listening deeply the entire time we are chanting and also during everything else we do while on retreat; listening with our eyes, ears, nose, tongue, body and mind.
 
 Listening as the active process of receiving life, meeting life, sharing the life that we each are&mdash;as both sound itself and that which receives and responds to sound.
@@ -73,64 +69,32 @@ We leave that seat at centerstage of our universe and melt into together action,
 
 In remembering belonging we remember who we truly are. We remember that we have never fallen out of belonging. We remember that we were not meant to be separate. We remember that it's not possible to be separate.
 
-<p><label for="spiral-speak" class="margin-toggle">&#8853;</label><input type="checkbox" id="spiral-speak" class="margin-toggle"/><span class="marginnote"><img src="/images/spiral_speak.png" alt="Spiral Speake" /><em>Spiral Speak</em>, by Sam Brown</span>
-We remember that there is no small self, and that what's being expressed in <em>Above the heavens, below the earth, I alone am the holy one</em> refers to big <em>I</em>, big meaning, to Self with a capital "S".</p>
+<label for="spiral-speak" class="margin-toggle">&#8853;</label><input type="checkbox" id="spiral-speak" class="margin-toggle"/><span class="marginnote"><img src="/images/spiral_speak.png" alt="Spiral Speake" /><em>Spiral Speak</em>, by Sam Brown</span>
+
+{{< figure src="/images/uploads/spiral-speak.png" title="*Spiral Speak*, by Sam Brown" >}}
+
+
+
+We remember that there is no small self, and that what's being expressed in <em>Above the heavens, below the earth, I alone am the holy one</em> refers to big <em>I</em>, big meaning, to Self with a capital "S".
 
 What speaks as baby Siddhartha is the future Buddha: the future Buddha that is each of us, claiming the holiness of all there is, as One.
 
 There is nothing not holy, nothing that does not belong, nothing that can be left out or can get lost. 
 
 Being *home*, belonging&mdash;this is our original condition.
- 
+
 The root of the word "holy" is closely connected to *whole*, to *healing*, to *health*, from Proto-Indo-European *kailo*:  "whole, uninjured, of good omen."
 
 *I alone am the holy one* points to something always whole, already perfect no matter what. Because not only are we part of the whole, we are the entirety of it, the container itself.
 
 The loss that cries out in us, the lost roots and the belonging we long for, are all part of the journey *home*, the journey of remembering who we truly are:
- 
->*Above the heavens, below the earth, I alone am the holy one.*
+
+> *Above the heavens, below the earth, I alone am the holy one.*
 
 It's our job to remember this. To live from it. To see it in and honor it as the other.
 
 It's our birthright. And our responsibility.
 
-
 May we all remember.
 
 Gassho &hellip;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
