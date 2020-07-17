@@ -6,7 +6,7 @@ description: A talk given by Tyson Davis at the Lexington Zen Center, September
 featured_image: /images/notebook.jpg
 tags:
   - zen
-draft: true
+draft: false
 ---
 I want to thank some people who have helped me on this path.
 
