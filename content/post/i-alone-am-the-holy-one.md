@@ -10,8 +10,6 @@ tags:
   - belonging
 draft: false
 ---
-> {{< figure src="undefined" title="undefined" >}}
->
 > Soon after Shakyamuni Buddha was born, he could already walk. 
 > He took seven steps and said: "After countless eons, this is my last birth. Among all the devas and humans, I am the most honorable and the most excellent. In this lifetime I will benefit devas and humans. I vow to bring universal salvation to all sentient beings." After Buddhism was transmitted to China, this statement of Shakyamuni's was expressed as the saying: *In Heaven and on Earth, I alone am the honored one.*
 
@@ -31,9 +29,11 @@ And what about our journey?
 
 In the unfolding of my life I have made some drastic life choices, either out of a sense of not belonging (at all/anymore) or out of a longing to belong&mdash;to something I wasn't even capable of naming. As a young woman I traveled all of Europe, a street musician searching for the meaning of life and hoping to find a place of belonging, to find *home*: something that felt like *roots*; because roots ground us in belonging&mdash;roots to a place, roots to people, roots in relations, roots created through stories of connection, roots created through together-action.
 
-<img class="image-right-250" src="/images/uploads/walking-home.png" alt="walking each other home by dorothy mchugh>For generations the people I descend from have been uprooted, generation after generation, person after person.  Their stories and hopes of belonging were shattered into pieces, again and again: fathers missing in the family line because they were killed in war, mothers disappearing, life-threatening famine, people displaced&mdash;fleeing either from incoming invasions or from political and economic violence.
+For generations the people I descend from have been uprooted, generation after generation, person after person.  Their stories and hopes of belonging were shattered into pieces, again and again: fathers missing in the family line because they were killed in war, mothers disappearing, life-threatening famine, people displaced&mdash;fleeing either from incoming invasions or from political and economic violence.
 
 They all left pieces of their hearts and roots in their *Heimat*, at *home*, and bravely created a new life for themselves and their families wherever those tempestuous times had tossed them to shore.
+
+{{< figure src="/images/uploads/walking-home.png" title="Walking Each Other Home, by Dorothy McHugh" >}}
 
 I think if we dare to look, we find that this is true for all human beings: Most of us come from people who have either uprooted themselves or have been uprooted; and the need to *go on*, the need to create a new life for themselves and their families meant to leave untouched an oozing wound of grief and of lingering, unbearable loss.
 
@@ -69,11 +69,7 @@ We leave that seat at centerstage of our universe and melt into together action,
 
 In remembering belonging we remember who we truly are. We remember that we have never fallen out of belonging. We remember that we were not meant to be separate. We remember that it's not possible to be separate.
 
-<label for="spiral-speak" class="margin-toggle">&#8853;</label><input type="checkbox" id="spiral-speak" class="margin-toggle"/><span class="marginnote"><img src="/images/spiral_speak.png" alt="Spiral Speake" /><em>Spiral Speak</em>, by Sam Brown</span>
-
-{{< figure src="/images/uploads/spiral-speak.png" title="*Spiral Speak*, by Sam Brown" >}}
-
-
+{{< figure src="/images/uploads/spiral-speak.png" title="Spiral Speak, by Sam Brown" >}}
 
 We remember that there is no small self, and that what's being expressed in <em>Above the heavens, below the earth, I alone am the holy one</em> refers to big <em>I</em>, big meaning, to Self with a capital "S".
 
