@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: post
+    label: "Articles"
+    folder: content/post
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", defaut: "An Awesome Dharma Talk"}
+      - {label: "Date", name: "date", widget: "datetime" }
+      - {label: "Description", name: "description", widget: "string", defaut: "Offered by Prince on December 31, 1999"}
+      - {label: "Featured Image", name: "featured_image", widget: "image", default: "/images/notebook.jpg"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["zen"]}
+
+
+
+
