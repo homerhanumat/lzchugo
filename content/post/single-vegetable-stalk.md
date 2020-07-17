@@ -4,6 +4,7 @@ description: "An impromptu student talk given by Homer White at the Lexington Ze
 featured_image: "/images/vegetable-stalk.jpg"
 tags: ["zen", "dogen", "antaiji"]
 title: "A Single Vegetable Stalk"
+draft: false
 ---
 
 Lately there appears to be an element of risk associated with showing up at the Zen Center, as Myong Soen has got in the habit of nudging us in various ways:  we were just becoming accustomed to the notion of preparing a student talk in advance, and now we are invited to make something up on the spot!  But as there is risk in showing up for anything at all in life I might as well give it a go.

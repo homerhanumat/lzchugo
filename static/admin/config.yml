@@ -18,7 +18,19 @@ collections:
       - {label: "Description", name: "description", widget: "string", defaut: "Offered by Prince on December 31, 1999"}
       - {label: "Featured Image", name: "featured_image", widget: "image", default: "/images/notebook.jpg"}
       - {label: "Tags", name: "tags", widget: "list", default: ["zen"]}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: page
+    label: "Pages"
+    folder: content
+    create: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Omit Text from the Header", name: "omit_header_text", widget: "boolean"}
+      - {label: "Featured Image", name: "featured_image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
 
 
 
