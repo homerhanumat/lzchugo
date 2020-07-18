@@ -1,7 +1,7 @@
 ---
 title: Silly
 description: just a test
-omit_header_text: true
+omit_header_text: false
 featured_image: /images/uploads/spiral-speak.png
 ---
 ## Section
