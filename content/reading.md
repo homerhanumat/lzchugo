@@ -1,8 +1,8 @@
 ---
-title: "Suggested Reading"
-featured_image: "/images/more/bamboo.jpg"
+title: Suggested Reading
+description: A Curated Collection
 omit_header_text: true
-description: ""
+featured_image: /images/more/bamboo.jpg
 type: page
 ---
 
@@ -32,14 +32,14 @@ Bearing in mind Dogen's advice, we provide here a listing of English-language so
     Shunryu Suzuki belonged to the Soto School of Japanese Zen and 
     was the founder of the influential 
     <a href = "http://sfzc.org/" target = "_blank"><em>San Francisco Zen Center</em></a>.  
-    (Suzuki was a fascinating character who inspired his students to 
+    Suzuki was a fascinating character who inspired his students to 
     attempt some great things.  See David Chadwick's biography 
     <a href = "https://www.amazon.com/Crooked-Cucumber-Teaching-Shunryu-Suzuki/dp/0767901053" target = "_blank"><em>Crooked Cucumber:  The Life and Zen Teaching of Shunryu Suzuki</em></a>, 
     which includes an account of the early years of San Francisco 
     n Center that conveys the innocence and high energy of 
     American Zen in the 1960's.  Chadwick's <a href = "https://www.shambhala.com/thank-you-and-ok-1521.html" target = "_blank"><em>Thank You and OK!  An American Zen Failure in Japan</em></a>, 
     a hilarious memoir of his practice in Japan and a poignant tribute 
-    as well to his own teacher Katagiri Roshi, is well worth reading.)
+    as well to his own teacher Katagiri Roshi, is well worth reading.
 </p>
 <p>
     Another immensely popular introduction to Zen---and still 
