@@ -59,6 +59,7 @@
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partialCached "site-scripts.html" . }}{{ end }}
+    {{ if .IsHome }}
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
@@ -70,5 +71,6 @@
         });
       }
     </script>
+    {{ end }}
   </body>
 </html>
