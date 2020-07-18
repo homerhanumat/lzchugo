@@ -6,6 +6,6 @@ description: An awesome dharma talk by Ma Tsu, given at the Lexington Zen Center
 featured_image: /images/notebook.jpg
 tags:
   - zen
-draft: true
+draft: false
 ---
 Katz!
