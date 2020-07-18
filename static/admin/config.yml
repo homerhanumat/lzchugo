@@ -26,7 +26,7 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string",, required: false}
+      - {label: "Description", name: "description", widget: "string", required: false}
       - {label: "Omit Text from the Header", name: "omit_header_text", widget: "boolean"}
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
