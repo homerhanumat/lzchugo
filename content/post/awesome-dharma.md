@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec semper ni
 
 Quisque et euismod quam. Donec luctus, erat eu auctor congue, metus mi dapibus sapien, sit amet egestas dolor massa sed nisi. Aenean ullamcorper eleifend nunc, eu varius urna convallis sit amet. Quisque et magna convallis velit imperdiet maximus. Quisque mauris eros, gravida eu aliquam eu, eleifend a tellus. Integer tortor tortor, commodo quis ipsum a, interdum porta ipsum. Phasellus et feugiat lectus. Nam eget suscipit enim, non posuere metus. Donec non libero ac risus congue varius. Mauris nec leo vehicula, varius ante id, faucibus ante. Mauris vitae aliquam lectus.
 
-{{< figure src="images/uploads/spiral-speak.png" title="caption" >}}
+{{< figure src="uploads/spiral-speak.png" title="caption" >}}
 
 Donec ut leo felis. Fusce feugiat felis quis neque ullamcorper, in feugiat diam ultricies. Donec dignissim mi nec mi interdum vehicula. Vestibulum id hendrerit nunc. Mauris ultricies diam vitae odio placerat sagittis. Aenean neque nulla, scelerisque id mattis ac, lacinia vitae magna. Phasellus non quam eu lorem aliquam dapibus. Ut purus sapien, tincidunt eget egestas sit amet, sollicitudin ac lacus. Duis a rutrum massa, quis luctus quam. In eleifend auctor libero ac lacinia. Mauris eu lorem fringilla, bibendum lorem et, tristique risus. Nunc maximus vestibulum iaculis. Vestibulum id massa in metus vulputate sollicitudin. Pellentesque vestibulum vel odio sit amet venenatis. Sed laoreet odio leo, finibus tristique velit pellentesque nec. Curabitur fringilla vitae sem non mattis.
 
