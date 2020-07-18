@@ -1,6 +1,6 @@
 ---
 title: Suggested Reading
-description: A Curated Collection
+description: ""
 omit_header_text: true
 featured_image: /images/more/bamboo.jpg
 type: page
