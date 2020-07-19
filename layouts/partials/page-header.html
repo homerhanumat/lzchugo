@@ -1,7 +1,7 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 {{ if $featured_image }}
-  {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-  {{ $featured_image := (trim $featured_image "/") | absURL }}
+  {{/* theme has absURL but I do not see why this is necessary */}}
+  {{ $featured_image := (trim $featured_image "/") | relURL }}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
     <div class="pb3-m pb6-l {{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
       {{ partial "site-navigation.html" . }}
