@@ -1,7 +1,8 @@
 ---
 title: On Ritual
 date: 2016-08-29T16:00:00
-description: A dharma talk given by Daniela (Muhan Shim Son Sa) at the Lexington Zen Center, August 29, 2016.
+description: A dharma talk given by Daniela (Muhan Shim Son Sa) at the Lexington
+  Zen Center, August 29, 2016.
 featured_image: /images/bowing.jpg
 tags:
   - zen
@@ -29,7 +30,7 @@ There were other rituals too.
 Food was served in the meditation hall, four bowl style, with what to me then was a complicated system of giving and receiving, of stacking and un-stacking one’s bowls the right way, of pouring water and of trying not to make any noise or any mistake &hellip; .
 
 
-And then there was the bowing: Three bows, the entire Sangha, in front of the teacher, every morning, and after that 108 bows at one’s place, 108 bows as a group in unison, and my inner rebellion growing with every single one of them.</p>
+And then there was the bowing: Three bows, the entire Sangha, in front of the teacher, every morning, and after that 108 bows at one’s place, 108 bows as a group in unison, and my inner rebellion growing with every single one of them.
 
 
 And finally there was the Kyosaku – the “encouragement stick”.  In the middle of each meditation session the Kyosaku-master got up from his seat to get the Kyosaku from its place on the altar; made two-and-a-half-steps back, bowed while holding the Kyosaku, turned around to approach the first person to the left and bowed to her. And after he or she had bowed back&mdash;whammmm!&mdash;he hit the person on their back with a very loud, dry whack, a couple of times before he bowed again and moved on to the next victim. And to the next one, and the next one, and the next &hellip;, coming closer to me, and closer, and closer &hellip;.
