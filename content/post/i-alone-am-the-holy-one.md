@@ -3,7 +3,7 @@ title: '"I Alone am the Holy One"'
 date: 2018-11-11T16:00:00
 description: A dharma talk given by Daniela (Muhan Shim Son Sa) at the Lexington
   Zen Center, November 11, 2018.
-featured_image: /images/uploads/spiral-speak.png
+featured_image: /images/uploads/spiral-speak-header.jpg
 tags:
   - zen
   - kido
