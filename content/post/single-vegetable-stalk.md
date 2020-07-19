@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-Lately there appears to be an element of risk associated with showing up at the Zen Center, as Myong Soen has got in the habit of nudging us in various ways:  we were just becoming accustomed to the notion of preparing a student talk in advance, and now we are invited to make something up on the spot!  But as there is risk in showing up for anything at all in life I might as well give it a go.
+Lately there appears to be an element of risk associated with showing up at the Zen Center, as Myong Soen has got in the habit of nudging us in various ways:  we were just becoming accustomed to the notion of preparing a student talk in advance, and now we are invited to make something up on the spot!  But as there is risk in showing up for anything at all in life I might as well give it a go!
 
 
 I'd like to tell you about something wonderful I stumbled across this morning, <a href="https://www.youtube.com/watch?v=ofiEJt4Qrag" target="_blank">a talk</a> by Ioana, a student at another Zen center&mdash;the great <a href="http://antaiji.org/en/" target="_blank">Antaiji monastery</a>, in fact.  Some of you will remember Antaiji as the home of Kosho Uchiyama Roshi, the author of *How to Cook Your Life*, a commentary on Dogen's *Tenzokyokun* (Instructions to the Cook).  We read it in the Book Group in the summer of 2015, I think.
