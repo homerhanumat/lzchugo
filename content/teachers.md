@@ -26,14 +26,6 @@ She is especially interested in how death informs life, and invites inquiry into
 
 
 
-## Hae Mun (Tyson Davis)
-
-<img class="image-left-250" src="/images/tyson_davis.jpeg" alt="Tyson Davis (Hae Mun)" />
-Tyson became a “book Buddhist” in 1997 when his only exposure to Buddhism was the small local bookstore in western Kentucky that had a half dozen books about Zen. He began a formal practice several years after moving to Lexington Kentucky. He has studied with several teachers over the years, but began studying under Zen Master Muhan Shim when she became Guiding Teacher of the Lexington Zen Center. Tyson became abbot of the Lexington Zen Center in 2017 and was named Senior Dharma Teacher in 2019.
-
-Tyson is a financial consultant at a regional firm in Lexington. He grew up on a farm in western Kentucky and still goes back to visit his parents and ride the tractor every now and then.
-
-
 ## Dae Gak
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;"  src="/images/dae-gak.jpg" alt="Zen Master Dae Gak" />
