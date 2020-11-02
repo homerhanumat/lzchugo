@@ -10,6 +10,8 @@ The Lexington Zen Center is a non-profit organization affiliated with the <a hre
 
 We are Buddhist by lineage but we welcome persons of all faiths and spiritual persuasions.  In addition to regular Sunday meditation services, we have special Beginner days and we hold several day-long retreats each year.
 
+In fact we have a retreat coming up November 8!  Click <a href="/retreats">here</a> for more information.
+
 ## Getting Here
 
 For the duration of the COVID-19 era we are meeting virtually.  You can <a href="/contact">contact us</a> to get acquainted and to get our Zoom meeting link.
