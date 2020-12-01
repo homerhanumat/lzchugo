@@ -10,15 +10,13 @@ The Lexington Zen Center is a non-profit organization affiliated with the <a hre
 
 We are Buddhist by lineage but we welcome persons of all faiths and spiritual persuasions.  In addition to regular Sunday meditation services, we have special Beginner days and we hold several day-long retreats each year.
 
-In fact we have a retreat coming up November 8!  Click <a href="/retreats">here</a> for more information.
-
 ## Getting Here
 
 For the duration of the COVID-19 era we are meeting virtually.  You can <a href="/contact">contact us</a> to get acquainted and to get our Zoom meeting link.
   
 ## Sundays
 
-On Sundays the sitting begins at 4:30pm and concludes by about 5:40pm.  Follow the links under the Practice menu to learn more about the Sunday sits (or at any rate, to learn how we did them before COVID ...).
+On Sundays the sitting begins at 4:00pm and concludes by about 5:05pm.  Follow the links under the Practice menu to learn more about the Sunday sits (or at any rate, to learn how we did them before COVID ...).
 
 ## Learn More
 
