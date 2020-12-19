@@ -1,16 +1,15 @@
 ---
 title: Teachers
-featured_image: "images/more/flags.jpg"
-omit_header_text: true
 description: ""
+omit_header_text: true
+featured_image: images/more/flags.jpg
 type: page
 ---
+> <em>I do not say that there is no Zen,<br>
+> I only say that there are no teachers of Zen.</em><br><br>
+> &mdash; Huang Po
 
-><em>I do not say that there is no Zen,<br>
-I only say that there are no teachers of Zen.</em><br><br>
-&mdash; Huang Po
-
-## Muhan Shim Son Sa (Daniela Herzog)
+## Muhan-Shim (Daniela Herzog)
 
 <img class="image-right-250" src="/images/daniela.jpg" alt="Daniel Herzog (Myong Soen Son Sa)" />
 
@@ -24,19 +23,19 @@ Muhan Shim has a masters degree in education and works as a certified profession
 
 She is especially interested in how death informs life, and invites inquiry into the great matter of birth and death as a co-host of regular &ldquo;Death Cafés&rdquo; in the Bluegrass and Red River Gorge area of Eastern Kentucky.
 
-
-
 ## Dae Gak
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;"  src="/images/dae-gak.jpg" alt="Zen Master Dae Gak" />
 
 Our Founding Teacher is Zen Master Dae Gak, who also resides at Furnace Mountain.  He is a Dharma heir of Zen Master Seung Sahn, and is the author of two books:
-* _Going Beyond Buddha:  The Awakening Practice of Listening_, Tuttle Press, 1997.  Available from Furnace Mountain.
+
+* *Going Beyond Buddha:  The Awakening Practice of Listening*, Tuttle Press, 1997.  Available from Furnace Mountain.
 * <a href = "http://zenmind.org/uprightwithpoiseandgrace.html" target = "_blank"><em>Upright with Poise and Grace:  Coming Forward as You Are</em></a>, Gnomon Press, 2012.
     
+
 Here is one of Dae Gak's poems:
 
-__Put On Your Robe__
+**Put On Your Robe**
 
 <blockquote>
 Put on your robe, your gown, your dancing shoes, your vestments.<br>
@@ -56,13 +55,14 @@ Your breath, your parents<br>
 From ten thousand life times.<br>
 
 Find your True Self and never let go.<br>
-     
+
 Hold the question without conclusion.<br>
-    
+
 And breathe, breathe into the belly of this beast<br>
 whose heart is loss and whose intelligence is not knowing.<br>
-     
+
 In a little over one hundred years everyone who is on earth today will be gone.<br>
-     
+
 There is no enlightenment other than... This!
+
 </blockquote>
