@@ -9,7 +9,7 @@ type: page
 > I only say that there are no teachers of Zen.</em><br><br>
 > &mdash; Huang Po
 
-## Muhan Shim (Daniela Herzog)
+## Muhan-Shim (Daniela Herzog)
 
 <img class="image-right-250" src="/images/daniela.jpg" alt="Daniel Herzog (Myong Soen Son Sa)" />
 
