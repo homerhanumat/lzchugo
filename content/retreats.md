@@ -2,17 +2,17 @@
 title: "Retreat"
 featured_image: "/images/cushions.jpeg"
 omit_header_text: false
-description: "Half-Day, November 8 2020"
+description: "Beginners Half-Day, January 10, 2021"
 type: page
 ---
 
-## A Half-Day Retreat
+## A Half-Day Retreat with a Focus on Beginners
 
-The Center will hold a half-day Zoom retreat on Saturday, November 8, from 9am to 2pm.  The day includes alternaitng sitting and "walking" periods, a dharma talk and an opportunity for an interview (in a Zoom room) with Muhan Shim.  There is also a 30-minute break for lunch.
+The Center will hold a half-day Zoom retreat on Sunday January 10 2021, from 9am to 2pm.  This retreat is opne to all but is especially focused on beginners and newer members, with an introduction to Zen practice and to the Furnace Mountain Sangha at large, meditation periods that start small and build up throughout the day, Q & A, and brief Way-Seeking Mind talks by Zen Center members.  Newer practioners will also have the option of a "get acquainted" interview with our Resident Teacher Muhan Shim.
 
-The suggested donation is $30, of which half goes to the Center and half to Muhan Shim as "teacher dana."
+The suggested donation is $10, but don't let cost keep you away!
 
-In order for everyone to have a chance for an interview, we are limiting registration.  If you are interested, <a href="/contact">contact the Center</a>.  Also mail a $30 check to:
+In order to work in interviews for everyone who wants one, we are limiting registration somewhat.  If you are interested, <a href="/contact">contact the Center</a>, and at your leisure mail your donation check to:
 
 <blockquote>
 Lexington Zen Center<br>
@@ -20,4 +20,4 @@ Lexington Zen Center<br>
 Georgetown, KY 40324
 </blockquote> 
 
-We'll send a out a Zoom link by email to everyone who has registered.
+Closer to the day, we'll send a out a Zoom link by email to everyone who has registered.

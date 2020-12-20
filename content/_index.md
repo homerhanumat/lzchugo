@@ -4,6 +4,10 @@ featured_image: '/images/more/sunset-view-header.jpg'
 description: "Nothing in the Universe is Hidden"
 ---
 
+## News:  Beginners Retreat Upcoming!
+
+The next Beginners Retreat is January 10.  Click [here](/retreats) for details.
+
 ## Welcome!
 
 The Lexington Zen Center is a non-profit organization affiliated with the <a href="http://www.furnacemountainzen.org/" target="_blank"> Furnace Mountain Zen Retreat Center</a> in Clay City, Kentucky.  The Lexington Center provides a friendly and non-threatening environment for the pursuit of spiritual practice.
