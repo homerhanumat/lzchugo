@@ -20,7 +20,7 @@ For the duration of the COVID-19 era we are meeting virtually.  You can <a href=
 
 ## Sundays
 
-On Sundays the sitting begins at 4:00pm and concludes by about 5:50pm.  Follow the links under the Practice menu to learn more about the Sunday sits (or at any rate, to learn how we did them before COVID ...).
+On Sundays the sitting begins at 4:00pm and concludes by about 5:05pm.  Follow the links under the Practice menu to learn more about the Sunday sits (or at any rate, to learn how we did them before COVID ...).
 
 ## Learn More
 
