@@ -1,5 +1,5 @@
 title = "LZC"
-baseURL = "https://www.lexingtonzencenter.org"
+baseURL = "https://lzchugo.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableEmoji = true
 
 [sitemap]
