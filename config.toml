@@ -8,7 +8,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6
 googleAnalytics = ""
-enableRobotsTXT = false
+enableRobotsTXT = true
 enableEmoji = true
 
 [sitemap]
