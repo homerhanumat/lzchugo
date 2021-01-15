@@ -4,9 +4,6 @@ description: Nothing in the Universe is Hidden
 omit_header_text: true
 featured_image: /images/more/sunset-view-header.jpg
 ---
-## News:  Beginners Retreat Upcoming!
-
-The next Beginners Retreat is January 10.  Click [here](/retreats) for details.
 
 ## Welcome!
 
