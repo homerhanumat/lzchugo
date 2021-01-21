@@ -1,8 +1,8 @@
 ---
 title: On Ritual
 date: 2016-08-29T16:00:00
-description: A dharma talk given by Daniela (Muhan Shim Son Sa) at the Lexington
-  Zen Center, August 29, 2016.
+description: A dharma talk given by Daniela (Muhanshim) at the Lexington Zen
+  Center, August 29, 2016.
 featured_image: /images/bowing.jpg
 tags:
   - zen
