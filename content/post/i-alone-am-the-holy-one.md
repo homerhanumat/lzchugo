@@ -1,8 +1,8 @@
 ---
 title: '"I Alone am the Holy One"'
 date: 2018-11-11T16:00:00
-description: A dharma talk given by Daniela (Muhan Shim Son Sa) at the Lexington
-  Zen Center, November 11, 2018.
+description: A dharma talk given by Daniela (Muhanshim) at the Lexington Zen
+  Center, November 11, 2018.
 featured_image: /images/uploads/spiral-speak-header.jpg
 tags:
   - zen
@@ -87,7 +87,7 @@ The loss that cries out in us, the lost roots and the belonging we long for, are
 
 > *Above the heavens, below the earth, I alone am the holy one.*
 
-It's our job to remember this. To live from it. To see it in and honor it as the other.
+It's our job to remember this. To live from it. To see it in and honor it in everything.
 
 It's our birthright. And our responsibility.
 
