@@ -19,7 +19,7 @@ She began active Zen training 1993 in the European Kwan Um Zen School and was a 
 
 In 2004 she received Inga (permission to teach) in the lineage of Zen Master Dae Gak.  In 2011 she moved to Furnace Mountain to commit her life to the dharma more fully.  In 2019 she received final Dharma Transmission from Zen Master Dae Gak.
 
-Muhan Shim has a masters degree in education and works as a certified professional coach. She is trained in compassionate communication (NVC), voice dialogue, focusing, systemic constellation work and Naikan and includes those modalities in her work with Zen students.
+Muhan Shim has a masters degree in education. She is trained in compassionate communication (NVC), voice dialogue, focusing, systemic constellation work and Naikan and includes those modalities in her work with Zen students.
 
 She is especially interested in how death informs life, and invites inquiry into the great matter of birth and death as a co-host of regular &ldquo;Death Cafés&rdquo; in the Bluegrass and Red River Gorge area of Eastern Kentucky.
 
