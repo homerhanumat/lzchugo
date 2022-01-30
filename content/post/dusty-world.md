@@ -7,7 +7,7 @@ featured_image: /images/pond.jpg
 tags:
   - zen
   - nakagawa-soen
-draft: true
+draft: false
 ---
 
 
