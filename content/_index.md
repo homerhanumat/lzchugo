@@ -5,11 +5,11 @@ omit_header_text: true
 featured_image: /images/more/sunset-view-header.jpg
 ---
 
-## Announcement:  Partial Return to In-Person Meetings!
+## Hybrid Meetings Resume
 
 The Lexington Zen Center is pleased to announce our return to in-person meditation meetings, on a monthly basis.
 
-Beginning in September we will meet on the first Sunday of each month at the Lexington Friends (Quakers) Meetinghouse.  Meditation will begin at 4pm and will consist of two 30-minute sitting periods separated by a meditation walk about ten minutes in length.  For members who live at a distance, virtual participation through Zoom will continue to be supported.
+Beginning in May we will meet on the first Sunday of each month at the Lexington Friends (Quakers) Meetinghouse.  Meditation will begin at 4pm and will consist of two 30-minute sitting periods separated by a meditation walk about ten minutes in length.  For members who live at a distance, virtual participation through Zoom will continue to be supported.
 
 On all other Sundays we will meet entirely on Zoom.  You can <a href="/contact">contact us</a> to get acquainted and to get our Zoom meeting link.
 
@@ -19,16 +19,12 @@ The Friends Meetinghouse is located at 649 Price Avenue, Lexington, KY 40508.  T
 
 ### COVID Protocols (Also Please Read Carefully)
 
-Our COVID-safety protocols are determined in part by requirements imposed by the Friends on all who use their space, and in part by considerations of safety for vulnerable members and for vulnerable people who live in the same household with some of our members.  
+Our COVID-safety protocols are determined in part by requirements set by the Friends on all who use their space, and in part by considerations of safety for vulnerable members and for vulnerable people who live in the same household with some of our members.  
 
 The protocols will change over time with the COVID situation.  Currently they are:
 
 * You must be vaccinated in order to attend.
-* All persons must wear a mask.
 * Mats and cushions will be spaced apart (this is easy in our large meeting space).
-* Practice reasonable social distancing (e.g., generally stay six feet apart, and no hugs yet).
-
-All that being said, we do very much look forward to seeing you in person again soon!
 
 
 ## Welcome!
