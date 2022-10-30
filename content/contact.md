@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/temple-bell.jpg"
+featured_image: "images/state_rock_daniela-min.jpg"
 omit_header_text: false
 description: We'd love to hear from you!
 type: page
