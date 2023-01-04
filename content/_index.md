@@ -9,7 +9,7 @@ featured_image: /images/more/sunset-view-header.jpg
 
 The Lexington Zen Center is pleased to announce our return to in-person meditation meetings, on a monthly basis.
 
-Beginning in May we will meet on the first Sunday of each month at the Lexington Friends (Quakers) Meetinghouse.  Meditation will begin at 4pm and will consist of two 30-minute sitting periods separated by a meditation walk about ten minutes in length.  For members who live at a distance, virtual participation through Zoom will continue to be supported.
+Usually we meet on the first Sunday of each month at the Lexington Friends (Quakers) Meetinghouse.  Meditation will begin at 4pm and will consist of two 30-minute sitting periods separated by a meditation walk about ten minutes in length.  For members who live at a distance, virtual participation through Zoom will continue to be supported.  (**Note**:  Sometimes the monthly in-person meeting must be cancelled, so if you are new please <a href="/contact">inquire</a> before showing up.)
 
 On all other Sundays we will meet entirely on Zoom.  You can <a href="/contact">contact us</a> to get acquainted and to get our Zoom meeting link.
 
