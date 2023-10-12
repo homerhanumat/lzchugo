@@ -69,11 +69,18 @@ enableEmoji = true
   weight = 2 
 
 [[menu.main]]
+  identifier = "events"
+  name = "Events"
+  parent = "about"
+  url = "/events/"
+  weight = 3 
+
+[[menu.main]]
   identifier = "contact"
   name = "Contact"
   parent = "about"
   url = "/contact/"
-  weight = 3 
+  weight = 4 
 
 [[menu.main]]
   identifier = "post"
