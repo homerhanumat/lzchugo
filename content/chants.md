@@ -6,9 +6,34 @@ description: We use these frequently at LZC.
 type: page
 ---
 
-## The Heart Sutra
+## The Evening Bell Chant
+
+This is done by one person, at the beginning of practice.
 
 <blockquote>
+mun jong-song<br>
+bon-ne dan<br>
+ji-hye jang<br>
+bo-ri saeng<br>
+ni-ji ok<br>
+chul sam-gye<br>
+won song-bul<br>
+do jung-saeng<br>
+pa ji-ok jin-on<br>
+om ga-ra ji-ya sa-ba-ha<br>
+om ga-ra ji-ya sa-ba-ha<br>
+om ga-ra ji-ya sa-ba-ha
+</blockquote>
+
+For a translation, sample audio, and a guide for chanting, consult <a href="https://kwanumzen.org/resources-collection/2017/9/6/evening-bell-chant" target="_blank">this page</a> from the website of the Kwan Um Zen School.
+
+## The Heart Sutra
+
+We chant this together.
+
+<blockquote>
+The Maha Prajna Paramita Hrdaya Sutra<br>
+
 Avalokitesvara Bodhisattva<br>
 when practicing deeply the Prajna Paramita<br>
 perceives that all five skandhas are empty<br>
@@ -69,12 +94,16 @@ proclaim the mantra which says:<br><br>
 gate gate paragate parasamgate bodhi svaha;<br> 
 gate gate paragate parasamgate bodhi svaha.</strong>    
 </blockquote>
+
+For sample audio consult <a href="https://kwanumzen.org/resources-collection/2017/9/6/heart-sutra-in-english" target="_blank">this page</a> from the website of the Kwan Um Zen School.
     
 ## The Bodhisattva Vows
 
+We chant the vows together, at the end of practice.
+
 <blockquote>
-Sentient beings are numberless:  I vow to save them.<br>
-Greed, hatred and ignorance rise endlessly: I vow to abandon them.<br>
-Dharma-gates are countless:  I vow to awake to them.<br>
-The Buddha-Way is uncontrived:  I vow to embody it fully.<br>
+Sentient beings are numberless:  vowing to save them.<br>
+Greed, hatred and ignorance rise endlessly: vowing to abandon them.<br>
+Dharma-gates are countless:  vowing to awake to them.<br>
+The Buddha-Way is uncontrived:  vowing to embody it fully.<br>
 </blockquote>
