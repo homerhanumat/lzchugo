@@ -208,7 +208,7 @@ function randomQuotes() {
   // handling the response text
   function processData(json) {
       var quotes = JSON.parse(json);
-      var randomIndex = getRandomInt(0, quotes.length - 1);
+      var randomIndex = getRandomInt(0, quotes.length);
       var quote = quotes[randomIndex].quote;
       var author = quotes[randomIndex].author;
       var quoteElement = document.querySelector("#quotation");
