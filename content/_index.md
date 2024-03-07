@@ -7,7 +7,7 @@ featured_image: /images/more/sunset-view-header.jpg
 
 ## Sunday Sitting Information
 
-We meet on the first Sunday of each month at the Lexington Friends (Quakers) Meetinghouse.  Meditation begins at 4pm and will consist of two 25-minute sitting periods separated by a meditation walk about five minutes in length.  For members who live at a distance, virtual participation through Zoom is supported.  (**Note**:  Sometimes the monthly in-person meeting must be cancelled, so if you are new please <a href="/contact">inquire</a> before showing up.)
+We meet on the first Sunday of each month at the Lexington Friends (Quakers) Meetinghouse.  Meditation begins at 2pm and will consist of two 25-minute sitting periods separated by a meditation walk about five minutes in length.  For members who live at a distance, virtual participation through Zoom is supported.  (**Note**:  Sometimes the monthly in-person meeting must be cancelled, so if you are new please <a href="/contact">inquire</a> before showing up.)
 
 On all other Sundays the meeting is entirely on Zoom.  You can <a href="/contact">contact us</a> to get acquainted and to get our Zoom meeting link.
 
