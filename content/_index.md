@@ -25,7 +25,7 @@ We are Buddhist by lineage but we welcome persons of all faiths and spiritual pe
 
 ## Meditation Meetings
 
-On Sundays the sitting begins at 4:00pm and concludes by about 4:55pm, with some light conversation afterwards.  Follow the links under the Practice menu to learn more about the Sunday sits.
+On Sundays the sitting begins at 2:00pm and concludes by about 2:55pm, with some light conversation afterwards.  Follow the links under the Practice menu to learn more about the Sunday sits.
 
 ## Learn More
 
