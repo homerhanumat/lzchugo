@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kido on LZC</title>
-    <link>https://lzchugo.netlify.app/tags/kido/</link>
-    <description>Recent content in kido on LZC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Kido on LZC</title>
+    <link>http://localhost:1313/tags/kido/</link>
+    <description>Recent content in Kido on LZC</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Nov 2018 16:00:00 +0000</lastBuildDate><atom:link href="https://lzchugo.netlify.app/tags/kido/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Nov 2018 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kido/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;I Alone am the Holy One&#34;</title>
-      <link>https://lzchugo.netlify.app/post/i-alone-am-the-holy-one/</link>
+      <link>http://localhost:1313/post/i-alone-am-the-holy-one/</link>
       <pubDate>Sun, 11 Nov 2018 16:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/post/i-alone-am-the-holy-one/</guid>
+      <guid>http://localhost:1313/post/i-alone-am-the-holy-one/</guid>
       <description>Soon after Shakyamuni Buddha was born, he could already walk. He took seven steps and said: &amp;ldquo;After countless eons, this is my last birth. Among all the devas and humans, I am the most honorable and the most excellent. In this lifetime I will benefit devas and humans. I vow to bring universal salvation to all sentient beings.&amp;rdquo; After Buddhism was transmitted to China, this statement of Shakyamuni&amp;rsquo;s was expressed as the saying: In Heaven and on Earth, I alone am the honored one.</description>
     </item>
-    
   </channel>
 </rss>

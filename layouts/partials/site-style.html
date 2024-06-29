@@ -1,0 +1,14 @@
+{{ with partialCached "func/style/GetMainCSS" "style/GetMainCSS" }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" >
+{{ end }}
+
+{{ range site.Params.custom_css }}
+  {{ with partialCached "func/style/GetResource" . . }}{{ else }}
+    <link rel="stylesheet" href="{{ relURL (.) }}">
+  {{ end }}
+{{ end }}
+
+{{/* added to bring in the custom styling */}}
+{{ $sassTemplate := resources.Get "sass/template.scss" }}
+    {{ $style := $sassTemplate | resources.ExecuteAsTemplate "main.scss" . | toCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">

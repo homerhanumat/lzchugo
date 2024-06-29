@@ -2,175 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Lexington Zen Center on LZC</title>
-    <link>https://lzchugo.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in The Lexington Zen Center on LZC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Nov 2018 16:00:00 +0000</lastBuildDate><atom:link href="https://lzchugo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Nov 2018 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;I Alone am the Holy One&#34;</title>
-      <link>https://lzchugo.netlify.app/post/i-alone-am-the-holy-one/</link>
+      <link>http://localhost:1313/post/i-alone-am-the-holy-one/</link>
       <pubDate>Sun, 11 Nov 2018 16:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/post/i-alone-am-the-holy-one/</guid>
+      <guid>http://localhost:1313/post/i-alone-am-the-holy-one/</guid>
       <description>Soon after Shakyamuni Buddha was born, he could already walk. He took seven steps and said: &amp;ldquo;After countless eons, this is my last birth. Among all the devas and humans, I am the most honorable and the most excellent. In this lifetime I will benefit devas and humans. I vow to bring universal salvation to all sentient beings.&amp;rdquo; After Buddhism was transmitted to China, this statement of Shakyamuni&amp;rsquo;s was expressed as the saying: In Heaven and on Earth, I alone am the honored one.</description>
     </item>
-    
     <item>
       <title>A Single Vegetable Stalk</title>
-      <link>https://lzchugo.netlify.app/post/single-vegetable-stalk/</link>
+      <link>http://localhost:1313/post/single-vegetable-stalk/</link>
       <pubDate>Sun, 03 Jun 2018 16:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/post/single-vegetable-stalk/</guid>
+      <guid>http://localhost:1313/post/single-vegetable-stalk/</guid>
       <description>Lately there appears to be an element of risk associated with showing up at the Zen Center, as Myong Soen has got in the habit of nudging us in various ways: we were just becoming accustomed to the notion of preparing a student talk in advance, and now we are invited to make something up on the spot! But as there is risk in showing up for anything at all in life I might as well give it a go.</description>
     </item>
-    
     <item>
       <title>On Ritual</title>
-      <link>https://lzchugo.netlify.app/post/on-ritual/</link>
+      <link>http://localhost:1313/post/on-ritual/</link>
       <pubDate>Mon, 29 Aug 2016 16:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/post/on-ritual/</guid>
+      <guid>http://localhost:1313/post/on-ritual/</guid>
       <description>Do you think that there will be a time when your students will do the chanting in English? In the future, maybe. When I first came here I thought to change it to English. But then I went to Poland. Can’t use English chants there. And Germany. So I decided to keep Korean style. Now, when our Sangha has a big ceremony, people come from all over the world. No problem, we all chant together in Korean.</description>
     </item>
-    
     <item>
       <title>The Dusty World</title>
-      <link>https://lzchugo.netlify.app/post/dusty-world/</link>
+      <link>http://localhost:1313/post/dusty-world/</link>
       <pubDate>Sun, 19 Jun 2016 16:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/post/dusty-world/</guid>
-      <description>A poem, written in 1938 by Soen Nakagawa Roshi1:
- Looking for serenity
-you have come
-to the monastery. Looking for serenity
-I am leaving
-the monastery.
-Kwatz!
-Stop running about seeking!
-The dusty affairs of the world
-fill the day,
-fill the night.
- I am not sure this is the proper poem for what I want to talk about today. But there is something in Roshi’s poem that touches me in a profound way.</description>
+      <guid>http://localhost:1313/post/dusty-world/</guid>
+      <description>A poem, written in 1938 by Soen Nakagawa Roshi1:&#xA;Looking for serenity&#xA;you have come&#xA;to the monastery. Looking for serenity&#xA;I am leaving&#xA;the monastery.&#xA;Kwatz!&#xA;Stop running about seeking!&#xA;The dusty affairs of the world&#xA;fill the day,&#xA;fill the night.&#xA;I am not sure this is the proper poem for what I want to talk about today. But there is something in Roshi’s poem that touches me in a profound way.</description>
     </item>
-    
     <item>
       <title>Chants</title>
-      <link>https://lzchugo.netlify.app/chants/</link>
+      <link>http://localhost:1313/chants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/chants/</guid>
-      <description>The Evening Bell Chant This is done by one person, at the beginning of practice.
- mun jong-song
-bon-ne dan
-ji-hye jang
-bo-ri saeng
-ni-ji ok
-chul sam-gye
-won song-bul
-do jung-saeng
-pa ji-ok jin-on
-om ga-ra ji-ya sa-ba-ha
-om ga-ra ji-ya sa-ba-ha
-om ga-ra ji-ya sa-ba-ha  For a translation, sample audio, and a guide for chanting, consult this page from the website of the Kwan Um Zen School.</description>
+      <guid>http://localhost:1313/chants/</guid>
+      <description>The Evening Bell Chant This is done by one person, at the beginning of practice.&#xA;mun jong-song&#xA;bon-ne dan&#xA;ji-hye jang&#xA;bo-ri saeng&#xA;ni-ji ok&#xA;chul sam-gye&#xA;won song-bul&#xA;do jung-saeng&#xA;pa ji-ok jin-on&#xA;om ga-ra ji-ya sa-ba-ha&#xA;om ga-ra ji-ya sa-ba-ha&#xA;om ga-ra ji-ya sa-ba-ha For a translation, sample audio, and a guide for chanting, consult this page from the website of the Kwan Um Zen School.&#xA;The Heart Sutra We chant this together.</description>
     </item>
-    
     <item>
       <title>Contact</title>
-      <link>https://lzchugo.netlify.app/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/contact/</guid>
-      <description>The quickest way to reach us is usually to post a message to Facebook Page. If you aren&amp;rsquo;t on Facebook, you can send us an email using the form below.
-Your Name Email Address An email address is required.  Message   </description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>The quickest way to reach us is usually to post a message to Facebook Page. If you aren&amp;rsquo;t on Facebook, you can send us an email using the form below.&#xA;Your Name Email Address An email address is required. Message </description>
     </item>
-    
     <item>
       <title>Donate</title>
-      <link>https://lzchugo.netlify.app/donate/</link>
+      <link>http://localhost:1313/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/donate/</guid>
-      <description>Supporting the Center We welcome donations to support our work. We can maintain our current levels of activity if regular participants contribute $30 per month. Contributions can be left in the donation box that is set out at every meditation service. Checks should be made out to the Lexington Zen Center, Inc. Cash donations may also be placed in the box.
-Donations may also be mailed to:
- Lexington Zen Center</description>
+      <guid>http://localhost:1313/donate/</guid>
+      <description>Supporting the Center We welcome donations to support our work. We can maintain our current levels of activity if regular participants contribute $30 per month. Contributions can be left in the donation box that is set out at every meditation service. Checks should be made out to the Lexington Zen Center, Inc. Cash donations may also be placed in the box.&#xA;Donations may also be mailed to:&#xA;Lexington Zen Center</description>
     </item>
-    
     <item>
       <title>Events</title>
-      <link>https://lzchugo.netlify.app/events/</link>
+      <link>http://localhost:1313/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/events/</guid>
-      <description> In the Śūraṅgama Sūtra it is written: &#34;Awake or asleep, at all times be one. &amp;ndash; Case 45, Entangling Vines
- </description>
+      <guid>http://localhost:1313/events/</guid>
+      <description>In the Śūraṅgama Sūtra it is written: &#34;Awake or asleep, at all times be one. &amp;ndash; Case 45, Entangling Vines</description>
     </item>
-    
     <item>
       <title>Meditation Service</title>
-      <link>https://lzchugo.netlify.app/sits/</link>
+      <link>http://localhost:1313/sits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/sits/</guid>
-      <description>Just prior to the service we arrange cushions according to the number of people we think are likely to attend. Newcomers are welcomed and helped to find a comfortable seat.
-The service itself consists of two thirty-minute periods of still and silent sitting separated by ten minutes of slow free-walking. The first period commences with the lighting of candles before a small statue of the Buddha; one person then chants a brief invocation in Korean.</description>
+      <guid>http://localhost:1313/sits/</guid>
+      <description>Just prior to the service we arrange cushions according to the number of people we think are likely to attend. Newcomers are welcomed and helped to find a comfortable seat.&#xA;The service itself consists of two thirty-minute periods of still and silent sitting separated by ten minutes of slow free-walking. The first period commences with the lighting of candles before a small statue of the Buddha; one person then chants a brief invocation in Korean.</description>
     </item>
-    
     <item>
       <title>Retreat</title>
-      <link>https://lzchugo.netlify.app/retreats/</link>
+      <link>http://localhost:1313/retreats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/retreats/</guid>
+      <guid>http://localhost:1313/retreats/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sitting</title>
-      <link>https://lzchugo.netlify.app/sitting/</link>
+      <link>http://localhost:1313/sitting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/sitting/</guid>
-      <description>The Main Thing You are welcome here. Everything is contained in that.
-It is a privilege and a great joy to be able to introduce you to the practice of Zen and to support you in it.
-Settling In If you are making your first visit to the Center, it&amp;rsquo;s a good idea to arrive about fifteen minutes early. A regular member will welcome you, orient you to the space and to the schedule of the service, and assist you in finding a seated posture that you can maintain for the thirty-minute duration of our meditation periods.</description>
+      <guid>http://localhost:1313/sitting/</guid>
+      <description>The Main Thing You are welcome here. Everything is contained in that.&#xA;It is a privilege and a great joy to be able to introduce you to the practice of Zen and to support you in it.&#xA;Settling In If you are making your first visit to the Center, it&amp;rsquo;s a good idea to arrive about fifteen minutes early. A regular member will welcome you, orient you to the space and to the schedule of the service, and assist you in finding a seated posture that you can maintain for the thirty-minute duration of our meditation periods.</description>
     </item>
-    
     <item>
       <title>Suggested Reading</title>
-      <link>https://lzchugo.netlify.app/reading/</link>
+      <link>http://localhost:1313/reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/reading/</guid>
-      <description>Though there are many features in the dusty world
-and in the world beyond conditions
-you see and understand only as far as the eye of your practice can reach. &amp;ndash; Eihei Dogen
- Bearing in mind Dogen&amp;rsquo;s advice, we provide here a listing of English-language sources that one or more LZC sangha-members have found personally helpful.
-Getting Started  The Lion&#39;s Roar is a nice online magazine to follow for general Buddhism.</description>
+      <guid>http://localhost:1313/reading/</guid>
+      <description>Though there are many features in the dusty world&#xA;and in the world beyond conditions&#xA;you see and understand only as far as the eye of your practice can reach. &amp;ndash; Eihei Dogen&#xA;Bearing in mind Dogen&amp;rsquo;s advice, we provide here a listing of English-language sources that one or more LZC sangha-members have found personally helpful.&#xA;Getting Started The Lion&#39;s Roar is a nice online magazine to follow for general Buddhism.</description>
     </item>
-    
     <item>
       <title>Teachers</title>
-      <link>https://lzchugo.netlify.app/teachers/</link>
+      <link>http://localhost:1313/teachers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/teachers/</guid>
-      <description>I do not say that there is no Zen,
-I only say that there are no teachers of Zen.
-— Huang Po
- Muhan-Shim (Daniela Herzog) Muhan Shim (Daniela Herzog) is the Vice Abbess of Furnace Mountain and serves as Guiding Teacher for the Lexington Zen Center.
-She began active Zen training 1993 in the European Kwan Um Zen School and was a co-founder of &amp;ldquo;Weißenbach Zen Center&amp;rdquo; in Germany soon thereafter.</description>
+      <guid>http://localhost:1313/teachers/</guid>
+      <description>I do not say that there is no Zen,&#xA;I only say that there are no teachers of Zen.&#xA;— Huang Po&#xA;Muhan-Shim (Daniela Herzog) Muhan Shim (Daniela Herzog) is the Vice Abbess of Furnace Mountain and serves as Guiding Teacher for the Lexington Zen Center.&#xA;She began active Zen training 1993 in the European Kwan Um Zen School and was a co-founder of &amp;ldquo;Weißenbach Zen Center&amp;rdquo; in Germany soon thereafter.</description>
     </item>
-    
     <item>
       <title>The Center</title>
-      <link>https://lzchugo.netlify.app/center/</link>
+      <link>http://localhost:1313/center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lzchugo.netlify.app/center/</guid>
-      <description>The Lexington Zen Center was founded in 1980 by Zen Master Dae Gak of Furnace Mountain in Powell County, Kentucky. We are a small but welcoming community of practitioners. Furnace Mountain was founded out of the Lexington Center, but nowadays we regard ourselves as affiliates of Furnace Mountain and part of its worldwide Sangha.
-Our primary regular activity is a weekly meditation service. We also have a book group that meets roughly every other week, prior to meditation period.</description>
+      <guid>http://localhost:1313/center/</guid>
+      <description>The Lexington Zen Center was founded in 1980 by Zen Master Dae Gak of Furnace Mountain in Powell County, Kentucky. We are a small but welcoming community of practitioners. Furnace Mountain was founded out of the Lexington Center, but nowadays we regard ourselves as affiliates of Furnace Mountain and part of its worldwide Sangha.&#xA;Our primary regular activity is a weekly meditation service. We also have a book group that meets roughly every other week, prior to meditation period.</description>
     </item>
-    
   </channel>
 </rss>
