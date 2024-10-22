@@ -4,10 +4,14 @@ date: 2016-06-19T16:00:00
 description: A dharma talk given by Daniela (Muhanshim) at the Lexington Zen
   Center, June 19, 2016.
 featured_image: /images/pond.jpg
+omit_header_text: false
 tags:
   - zen
   - nakagawa-soen
 draft: false
+summary:  "A dharma talk given by Daniela (Muhanshim) at the Lexington Zen
+  Center, June 19, 2016."
+weight: 1
 ---
 
 

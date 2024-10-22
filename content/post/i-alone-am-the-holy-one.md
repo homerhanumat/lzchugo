@@ -9,6 +9,10 @@ tags:
   - kido
   - belonging
 draft: false
+omit_header_text: false
+weight: 4
+summary: "A dharma talk given by Daniela (Muhanshim) at the Lexington Zen
+  Center, November 11, 2018."
 ---
 > Soon after Shakyamuni Buddha was born, he could already walk. 
 > He took seven steps and said: "After countless eons, this is my last birth. Among all the devas and humans, I am the most honorable and the most excellent. In this lifetime I will benefit devas and humans. I vow to bring universal salvation to all sentient beings." After Buddhism was transmitted to China, this statement of Shakyamuni's was expressed as the saying: *In Heaven and on Earth, I alone am the honored one.*

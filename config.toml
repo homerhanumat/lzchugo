@@ -1,5 +1,5 @@
 title = "LZC"
-baseURL = "https://lzchugo.netlify.app"
+baseURL = "https://homerhanumat.github.io/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
@@ -61,36 +61,9 @@ profilelink = "https://www.facebook.com/lexingtonzencenter/"
 [[menu.main]]
   identifier = "about"
   name = "About"
-  url = "#"
+  url = "/about/"
   weight = 2
 
-[[menu.main]]
-  identifier = "center"
-  name = "The Center"
-  parent = "about"
-  url = "/center/"
-  weight = 1  
-
-[[menu.main]]
-  identifier = "teachers"
-  name = "Teachers"
-  parent = "about"
-  url = "/teachers/"
-  weight = 2 
-
-[[menu.main]]
-  identifier = "events"
-  name = "Events"
-  parent = "about"
-  url = "/events/"
-  weight = 3 
-
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  parent = "about"
-  url = "/contact/"
-  weight = 4 
 
 [[menu.main]]
   identifier = "post"
@@ -99,38 +72,11 @@ profilelink = "https://www.facebook.com/lexingtonzencenter/"
   weight = 3 
 
 [[menu.main]]
-  identifier = "more"
+  identifier = "resources"
   name = "Resources"
-  url = "#"
+  url = "/resources/"
   weight = 3 
 
-[[menu.main]]
-  identifier = "sits"
-  name = "Services"
-  parent = "more"
-  url = "/sits/"
-  weight = 1
-
-[[menu.main]]
-  identifier = "sitting"
-  name = "Sitting"
-  parent = "more"
-  url = "/sitting/"
-  weight = 2
-
-[[menu.main]]
-  identifier = "chants"
-  name = "Chants"
-  parent = "more"
-  url = "/chants/"
-  weight = 3
-
-[[menu.main]]
-  identifier = "resources"
-  name = "Reading"
-  parent = "more"
-  url = "/reading/"
-  weight = 4
 
 [[menu.main]]  
   identifier = "donate"

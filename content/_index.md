@@ -7,9 +7,9 @@ featured_image: /images/more/sunset-view-header.jpg
 
 ## Sunday Sitting Information
 
-We meet on the first Sunday of each month at the Lexington Friends (Quakers) Meetinghouse.  Meditation begins at 2pm and will consist of two 25-minute sitting periods separated by a meditation walk about five minutes in length.  For members who live at a distance, virtual participation through Zoom is supported.  (**Note**:  Sometimes the monthly in-person meeting must be cancelled, so if you are new please <a href="/contact">inquire</a> before showing up.)
+We meet on the first Sunday of each month at the Lexington Friends (Quakers) Meetinghouse.  Meditation begins at 2pm and will consist of two 25-minute sitting periods separated by a meditation walk about five minutes in length.  For members who live at a distance, virtual participation through Zoom is supported.  (**Note**:  Sometimes the monthly in-person meeting must be cancelled, so if you are new please <a href="/about/contact">inquire</a> before showing up.)
 
-On all other Sundays the meeting is entirely on Zoom.  You can <a href="/contact">contact us</a> to get acquainted and to get our Zoom meeting link.
+On all other Sundays the meeting is entirely on Zoom.  You can <a href="/about/contact">contact us</a> to get acquainted and to get our Zoom meeting link.
 
 ### Getting to the Friends Meetinghouse (Please Read Carefully!)
 
@@ -20,12 +20,12 @@ The Friends Meetinghouse is located at 649 Price Avenue, Lexington, KY 40508.  T
 
 The Lexington Zen Center is a non-profit organization affiliated with the <a href="http://www.furnacemountainzen.org/" target="_blank"> Furnace Mountain Zen Retreat Center</a> in Clay City, Kentucky.  The Lexington Center provides a friendly and non-threatening environment for the pursuit of spiritual practice.
 
-We are Buddhist by lineage but we welcome persons of all faiths and spiritual persuasions.  In addition to regular Sunday meditation services, we sometimes organize special Beginner days and sponsor day-long retreats at Furnace Mountain.  For upcoming events, consult <a href="http://www.lexingtonzencenter.org/events" target="_blank">our calendar</a>.
+We are Buddhist by lineage but we welcome persons of all faiths and spiritual persuasions.  In addition to regular Sunday meditation services, we sometimes organize special Beginner days and sponsor day-long retreats at Furnace Mountain.  For upcoming events, consult <a href="/about/events/" target="_blank">our calendar</a>.
 
 
 ## Meditation Meetings
 
-On Sundays the sitting begins at 2:00pm and concludes by about 2:55pm, with some light conversation afterwards.  Follow the links under the Practice menu to learn more about the Sunday sits.
+On Sundays the sitting begins at 2:00pm and concludes by about 2:55pm, with some light conversation afterwards.  To learn more about the Sunday sits, read some of the articles <a href="/resources/" target="_blank">here</a>.
 
 ## Learn More
 

@@ -16,38 +16,7 @@ nav {
     padding-right: 10px;
   }
 
-  /* remaining custom CSS */
-
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: rgba(50, 50, 50, 0.5);
-    list-style-type: none; /* Remove bullets */
-    margin: 0; /* Remove margins */
-    min-width: 120px;
-    padding: 6px 8px;
-    z-index: 1;
-  }
-  
-  .dropdown-content li a {
-    color: #f8f8ff;
-    opacity: 92%;
-    text-decoration: none;
-  }
-  
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-  
-  .dropdown .dropdown-content li a:hover {
-    color: white;
-    opacity: 100%;
-  }
+ 
   
   /* wrapping text around an image */
   

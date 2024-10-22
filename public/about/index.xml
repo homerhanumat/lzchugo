@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on LZC</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About Us on LZC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Center</title>
+      <link>http://localhost:1313/about/center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/center/</guid>
+      <description>The Center and its history.</description>
+    </item>
+    <item>
+      <title>Teachers</title>
+      <link>http://localhost:1313/about/teachers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/teachers/</guid>
+      <description>Learn a bit about our teachers.</description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>http://localhost:1313/about/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/events/</guid>
+      <description>A calendar of special events.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/about/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/contact/</guid>
+      <description>An email contact form (the quickest way to get a response from us).</description>
+    </item>
+  </channel>
+</rss>

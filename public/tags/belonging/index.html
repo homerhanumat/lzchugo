@@ -76,94 +76,38 @@
       
 
       
-      
         <ul class="pl0 mr3">
-            
-            
-              <li class="list f5 f4-ns fw4 dib pr3 pure-menu-link">
-                <a class="hover-white no-underline white-90" href="/" title="Home page">
-                  Home
-                </a>
-              </li>
-
-            
-        
-            
-            
-                <li class="dropdown list f5 f4-ns fw4 dib pr3 pure-menu-has-children ">
-                    <a class="hover-white no-underline white-90" href="#" title="About page">
-                        
-                        <span>About</span>
-                    </a>
-                    <ul class="dropdown-content pure-menu-children">
-                        
-                            <li class="hover-white no-underline white-90 pure-menu-link ">
-                                <a href="/center/">The Center</a>
-                            </li>
-                        
-                            <li class="hover-white no-underline white-90 pure-menu-link ">
-                                <a href="/teachers/">Teachers</a>
-                            </li>
-                        
-                            <li class="hover-white no-underline white-90 pure-menu-link ">
-                                <a href="/events/">Events</a>
-                            </li>
-                        
-                            <li class="hover-white no-underline white-90 pure-menu-link ">
-                                <a href="/contact/">Contact</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-        
-            
-              <li class="list f5 f4-ns fw4 dib pr3 pure-menu-link">
-                <a class="hover-white no-underline white-90" href="/post/" title="Articles page">
-                  Articles
-                </a>
-              </li>
-
-            
-        
-            
-            
-                <li class="dropdown list f5 f4-ns fw4 dib pr3 pure-menu-has-children ">
-                    <a class="hover-white no-underline white-90" href="#" title="Resources page">
-                        
-                        <span>Resources</span>
-                    </a>
-                    <ul class="dropdown-content pure-menu-children">
-                        
-                            <li class="hover-white no-underline white-90 pure-menu-link ">
-                                <a href="/sits/">Services</a>
-                            </li>
-                        
-                            <li class="hover-white no-underline white-90 pure-menu-link ">
-                                <a href="/sitting/">Sitting</a>
-                            </li>
-                        
-                            <li class="hover-white no-underline white-90 pure-menu-link ">
-                                <a href="/chants/">Chants</a>
-                            </li>
-                        
-                            <li class="hover-white no-underline white-90 pure-menu-link ">
-                                <a href="/reading/">Reading</a>
-                            </li>
-                        
-                    </ul>
-                </li>
-            
-        
-            
-              <li class="list f5 f4-ns fw4 dib pr3 pure-menu-link">
-                <a class="hover-white no-underline white-90" href="/donate/" title="Donate page">
-                  Donate
-                </a>
-              </li>
-
-            
-        
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/" title="Home page">
+              Home
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/post/" title="Articles page">
+              Articles
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/resources/" title="Resources page">
+              Resources
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/donate/" title="Donate page">
+              Donate
+            </a>
+          </li>
+          
         </ul>
       
       <div class="ananke-socials"><a href="https://www.facebook.com/lexingtonzencenter/" target="_blank" rel="noopener"
@@ -215,9 +159,7 @@
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <blockquote>
-<p>Soon after Shakyamuni Buddha was born, he could already walk.
-He took seven steps and said: &ldquo;After countless eons, this is my last birth. Among all the devas and humans, I am the most honorable and the most excellent. In this lifetime I will benefit devas and humans. I vow to bring universal salvation to all sentient beings.&rdquo; After Buddhism was transmitted to China, this statement of Shakyamuni&rsquo;s was expressed as the saying: <em>In Heaven and on Earth, I alone am the honored one.</em></p>
+      A dharma talk given by Daniela (Muhanshim) at the Lexington Zen Center, November 11, 2018.
     </div>
   </div>
 
@@ -248,78 +190,6 @@ He took seven steps and said: &ldquo;After countless eons, this is my last birth
 </div>
   </div>
 </footer>
+<script src="/js/custom.js"></script>
 
 
-<script>
-
-
-
-
-
-
-
-
-function randomQuotes() {
-
-    console.log("random quote");
-
-  
-  function getRandomInt(min, max) {
-      min = Math.ceil(min);
-      max = Math.floor(max);
-      return Math.floor(Math.random() * (max - min)) + min;
-  }
-
-  var url = "/data/quotes.json";
-
-  
-  function callback(response, error) {
-      if (response !== null) {
-          processData(response);
-      } else {
-          console.log(error);
-      }
-  }
-
-  
-  function processData(json) {
-      var quotes = JSON.parse(json);
-      var randomIndex = getRandomInt(0, quotes.length);
-      var quote = quotes[randomIndex].quote;
-      var author = quotes[randomIndex].author;
-      var quoteElement = document.querySelector("#quotation");
-      quoteElement.innerHTML = quote;
-      var sourceElement = document.querySelector("#quote-source")
-      sourceElement.innerHTML = "&mdash; " + author;
-  }
-
-  
-  var req = new XMLHttpRequest();
-  req.open("GET", url, true);
-  
-  req.timeout = 30000;
-  req.ontimeout = function () {
-      console.log("Request timed out.");
-  };
-
-  
-  req.addEventListener("load", function () {
-      if (req.status < 400) {
-          callback(req.responseText);
-      } else {
-          callback(null, new Error(req.status + ":  " + req.statusText));
-      }
-  });
-
-  
-  req.addEventListener("error", function () {
-      callback(null, new Error("Network error"));
-  });
-
-  
-  req.send();
-}
-
-window.addEventListener('load', randomQuotes);
-</script>
- 

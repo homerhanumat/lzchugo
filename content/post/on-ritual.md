@@ -9,6 +9,10 @@ tags:
   - ritual
   - seung sahn
 draft: false
+omit_header_text: false
+weight: 2
+summary: "A dharma talk given by Daniela (Muhanshim) at the Lexington Zen
+  Center, August 29, 2016."
 ---
 
 
