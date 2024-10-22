@@ -1,5 +1,5 @@
 [context.production.environment]
-  HUGO_VERSION = "0.135.0"
+  HUGO_VERSION = "0.136.3"
   # uncomment the following when we are ready:
   HUGO_ENV = "production"
 
@@ -7,4 +7,4 @@
   command = "hugo  -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.135.0"
+  HUGO_VERSION = "0.136.3"

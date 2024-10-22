@@ -5,6 +5,8 @@
  * 
  ***************************************************************/
 
+console.log("hello");
+
 (function (window, document) {
     'use strict';
 
@@ -186,6 +188,8 @@
  ***********************************************************/
 
 function randomQuotes() {
+
+    console.log("random quote");
 
   // utility
   function getRandomInt(min, max) {
