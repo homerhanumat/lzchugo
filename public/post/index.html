@@ -24,10 +24,6 @@
     
     <link rel="stylesheet" href="/css/template.css">
     
-<script src="/js/custom.js"></script>
-
-
-
 
     
       
@@ -94,8 +90,7 @@
             
         
             
-            
-                <li class="dropdown list f5 f4-ns fw4 dib pr3 pure-menu-has-children ">
+                <li class="dropdown list f5 f4-ns fw4 dib pr3 ">
                     <a class="hover-white no-underline white-90" href="#" title="About page">
                         
                         <span>About</span>
@@ -132,8 +127,7 @@
             
         
             
-            
-                <li class="dropdown list f5 f4-ns fw4 dib pr3 pure-menu-has-children ">
+                <li class="dropdown list f5 f4-ns fw4 dib pr3 ">
                     <a class="hover-white no-underline white-90" href="#" title="Resources page">
                         
                         <span>Resources</span>
@@ -330,4 +324,77 @@ fill the night.</p>
   </div>
 </footer>
 
+
+<script>
+
+
+
+
+
+
+
+
+function randomQuotes() {
+
+    console.log("random quote");
+
+  
+  function getRandomInt(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      return Math.floor(Math.random() * (max - min)) + min;
+  }
+
+  var url = "/data/quotes.json";
+
+  
+  function callback(response, error) {
+      if (response !== null) {
+          processData(response);
+      } else {
+          console.log(error);
+      }
+  }
+
+  
+  function processData(json) {
+      var quotes = JSON.parse(json);
+      var randomIndex = getRandomInt(0, quotes.length);
+      var quote = quotes[randomIndex].quote;
+      var author = quotes[randomIndex].author;
+      var quoteElement = document.querySelector("#quotation");
+      quoteElement.innerHTML = quote;
+      var sourceElement = document.querySelector("#quote-source")
+      sourceElement.innerHTML = "&mdash; " + author;
+  }
+
+  
+  var req = new XMLHttpRequest();
+  req.open("GET", url, true);
+  
+  req.timeout = 30000;
+  req.ontimeout = function () {
+      console.log("Request timed out.");
+  };
+
+  
+  req.addEventListener("load", function () {
+      if (req.status < 400) {
+          callback(req.responseText);
+      } else {
+          callback(null, new Error(req.status + ":  " + req.statusText));
+      }
+  });
+
+  
+  req.addEventListener("error", function () {
+      callback(null, new Error("Network error"));
+  });
+
+  
+  req.send();
+}
+
+window.addEventListener('load', randomQuotes);
+</script>
  

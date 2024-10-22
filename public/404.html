@@ -24,10 +24,6 @@
     
     <link rel="stylesheet" href="/css/template.css">
     
-<script src="/js/custom.js"></script>
-
-
-
 
     
       
@@ -75,7 +71,7 @@
         <ul class="pl0 mr3">
             
             
-              <li class="list f5 f4-ns fw4 dib pr3">
+              <li class="list f5 f4-ns fw4 dib pr3 pure-menu-link">
                 <a class="hover-white no-underline white-90" href="/" title="Home page">
                   Home
                 </a>
@@ -90,21 +86,21 @@
                         
                         <span>About</span>
                     </a>
-                    <ul class="dropdown-content">
+                    <ul class="dropdown-content pure-menu-children">
                         
-                            <li class="hover-white no-underline white-90 ">
+                            <li class="hover-white no-underline white-90 pure-menu-link ">
                                 <a href="/center/">The Center</a>
                             </li>
                         
-                            <li class="hover-white no-underline white-90 ">
+                            <li class="hover-white no-underline white-90 pure-menu-link ">
                                 <a href="/teachers/">Teachers</a>
                             </li>
                         
-                            <li class="hover-white no-underline white-90 ">
+                            <li class="hover-white no-underline white-90 pure-menu-link ">
                                 <a href="/events/">Events</a>
                             </li>
                         
-                            <li class="hover-white no-underline white-90 ">
+                            <li class="hover-white no-underline white-90 pure-menu-link ">
                                 <a href="/contact/">Contact</a>
                             </li>
                         
@@ -113,7 +109,7 @@
             
         
             
-              <li class="list f5 f4-ns fw4 dib pr3">
+              <li class="list f5 f4-ns fw4 dib pr3 pure-menu-link">
                 <a class="hover-white no-underline white-90" href="/post/" title="Articles page">
                   Articles
                 </a>
@@ -128,21 +124,21 @@
                         
                         <span>Resources</span>
                     </a>
-                    <ul class="dropdown-content">
+                    <ul class="dropdown-content pure-menu-children">
                         
-                            <li class="hover-white no-underline white-90 ">
+                            <li class="hover-white no-underline white-90 pure-menu-link ">
                                 <a href="/sits/">Services</a>
                             </li>
                         
-                            <li class="hover-white no-underline white-90 ">
+                            <li class="hover-white no-underline white-90 pure-menu-link ">
                                 <a href="/sitting/">Sitting</a>
                             </li>
                         
-                            <li class="hover-white no-underline white-90 ">
+                            <li class="hover-white no-underline white-90 pure-menu-link ">
                                 <a href="/chants/">Chants</a>
                             </li>
                         
-                            <li class="hover-white no-underline white-90 ">
+                            <li class="hover-white no-underline white-90 pure-menu-link ">
                                 <a href="/reading/">Reading</a>
                             </li>
                         
@@ -151,7 +147,7 @@
             
         
             
-              <li class="list f5 f4-ns fw4 dib pr3">
+              <li class="list f5 f4-ns fw4 dib pr3 pure-menu-link">
                 <a class="hover-white no-underline white-90" href="/donate/" title="Donate page">
                   Donate
                 </a>
@@ -210,4 +206,77 @@
   </div>
 </footer>
 
+
+<script>
+
+
+
+
+
+
+
+
+function randomQuotes() {
+
+    console.log("random quote");
+
+  
+  function getRandomInt(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      return Math.floor(Math.random() * (max - min)) + min;
+  }
+
+  var url = "/data/quotes.json";
+
+  
+  function callback(response, error) {
+      if (response !== null) {
+          processData(response);
+      } else {
+          console.log(error);
+      }
+  }
+
+  
+  function processData(json) {
+      var quotes = JSON.parse(json);
+      var randomIndex = getRandomInt(0, quotes.length);
+      var quote = quotes[randomIndex].quote;
+      var author = quotes[randomIndex].author;
+      var quoteElement = document.querySelector("#quotation");
+      quoteElement.innerHTML = quote;
+      var sourceElement = document.querySelector("#quote-source")
+      sourceElement.innerHTML = "&mdash; " + author;
+  }
+
+  
+  var req = new XMLHttpRequest();
+  req.open("GET", url, true);
+  
+  req.timeout = 30000;
+  req.ontimeout = function () {
+      console.log("Request timed out.");
+  };
+
+  
+  req.addEventListener("load", function () {
+      if (req.status < 400) {
+          callback(req.responseText);
+      } else {
+          callback(null, new Error(req.status + ":  " + req.statusText));
+      }
+  });
+
+  
+  req.addEventListener("error", function () {
+      callback(null, new Error("Network error"));
+  });
+
+  
+  req.send();
+}
+
+window.addEventListener('load', randomQuotes);
+</script>
  

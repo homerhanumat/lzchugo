@@ -14,8 +14,7 @@
         <ul class="pl0 mr3">
             {{ range .Site.Menus.main }}
             {{ if and .HasChildren (ne .Name "Articles") }}
-            <!-- added class pure-menu-has-children -->
-                <li class="dropdown list f5 f4-ns fw4 dib pr3 pure-menu-has-children {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                <li class="dropdown list f5 f4-ns fw4 dib pr3 {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
                     <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
                         {{ .Pre }}
                         <span>{{ .Name }}</span>
