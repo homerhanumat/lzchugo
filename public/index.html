@@ -185,19 +185,15 @@
 </footer>
 
 
-<scipt>
-  /*************************************************************
-  /***********************************************************
-  *
-  * Random Quotes
-  *
-  ***********************************************************/
+<script>
+  
+
  
  function randomQuotes() {
  
      console.log("random quote");
  
-   // utility
+   
    function getRandomInt(min, max) {
        min = Math.ceil(min);
        max = Math.floor(max);
@@ -206,7 +202,7 @@
  
    var url = "/data/quotes.json";
  
-   // define the callback:
+   
    function callback(response, error) {
        if (response !== null) {
            processData(response);
@@ -215,7 +211,7 @@
        }
    }
  
-   // handling the response text
+   
    function processData(json) {
        var quotes = JSON.parse(json);
        var randomIndex = getRandomInt(0, quotes.length);
@@ -227,32 +223,32 @@
        sourceElement.innerHTML = "&mdash; " + author;
    }
  
-   //set it up
+   
    var req = new XMLHttpRequest();
    req.open("GET", url, true);
-   // timeout after 30 seconds:
+   
    req.timeout = 30000;
    req.ontimeout = function () {
        console.log("Request timed out.");
    };
  
-   // handle response to request:
+   
    req.addEventListener("load", function () {
-       if (req.status &lt; 400) {
+       if (req.status < 400) {
            callback(req.responseText);
        } else {
            callback(null, new Error(req.status + ":  " + req.statusText));
        }
    });
  
-   // if we never get off the ground:
+   
    req.addEventListener("error", function () {
        callback(null, new Error("Network error"));
    });
  
-   // Now send it:
+   
    req.send();
  }
  
  window.addEventListener('load', randomQuotes);
-</scipt>
+</script>
