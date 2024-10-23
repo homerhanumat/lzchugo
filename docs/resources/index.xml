@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on LZC</title>
-    <link>http://homerhanumat.github.io/resources/</link>
+    <link>http://localhost:57243/lzchugo/resources/</link>
     <description>Recent content in Resources on LZC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://homerhanumat.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57243/lzchugo/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sitting</title>
-      <link>http://homerhanumat.github.io/resources/sitting/</link>
+      <link>http://localhost:57243/lzchugo/resources/sitting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://homerhanumat.github.io/resources/sitting/</guid>
+      <guid>http://localhost:57243/lzchugo/resources/sitting/</guid>
       <description>Welcome!  Here are some tips for your first visit with us.</description>
     </item>
     <item>
       <title>Meditation Service</title>
-      <link>http://homerhanumat.github.io/resources/sits/</link>
+      <link>http://localhost:57243/lzchugo/resources/sits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://homerhanumat.github.io/resources/sits/</guid>
+      <guid>http://localhost:57243/lzchugo/resources/sits/</guid>
       <description>How a typical meditation service goes.</description>
     </item>
     <item>
       <title>Chants</title>
-      <link>http://homerhanumat.github.io/resources/chants/</link>
+      <link>http://localhost:57243/lzchugo/resources/chants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://homerhanumat.github.io/resources/chants/</guid>
+      <guid>http://localhost:57243/lzchugo/resources/chants/</guid>
       <description>Some chants that we frequently use at our Center.</description>
     </item>
     <item>
       <title>Suggested Reading</title>
-      <link>http://homerhanumat.github.io/resources/reading/</link>
+      <link>http://localhost:57243/lzchugo/resources/reading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://homerhanumat.github.io/resources/reading/</guid>
+      <guid>http://localhost:57243/lzchugo/resources/reading/</guid>
       <description>This ia an annotated guide to some of theEnglish-language sources that one or more LZC sangha-members     have found personally helpful.</description>
     </item>
   </channel>

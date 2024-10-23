@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antaiji on LZC</title>
-    <link>http://homerhanumat.github.io/tags/antaiji/</link>
+    <link>http://localhost:57243/lzchugo/tags/antaiji/</link>
     <description>Recent content in Antaiji on LZC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Jun 2018 16:00:00 +0000</lastBuildDate>
-    <atom:link href="http://homerhanumat.github.io/tags/antaiji/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57243/lzchugo/tags/antaiji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Single Vegetable Stalk</title>
-      <link>http://homerhanumat.github.io/post/single-vegetable-stalk/</link>
+      <link>http://localhost:57243/lzchugo/post/single-vegetable-stalk/</link>
       <pubDate>Sun, 03 Jun 2018 16:00:00 +0000</pubDate>
-      <guid>http://homerhanumat.github.io/post/single-vegetable-stalk/</guid>
+      <guid>http://localhost:57243/lzchugo/post/single-vegetable-stalk/</guid>
       <description>An impromptu student talk given by Homer White at the Lexington Zen Center, June 3, 2018.</description>
     </item>
   </channel>
