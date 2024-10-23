@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://homerhanumat.github.io/sitemap.xml
