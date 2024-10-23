@@ -30,7 +30,6 @@
     <!-- must incorporate custom css this way for now (v0.136.3)
      and github build for some reason won't load JS so I have to put in
      at the bottom of this file -->
-    <link rel="stylesheet" href="/css/template.css">
     
 
     {{ block "favicon" . }}
@@ -69,6 +68,8 @@
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+
+
 
 <script>
   /*************************************************************
