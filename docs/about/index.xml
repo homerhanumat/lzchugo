@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on LZC</title>
-    <link>http://localhost:57243/lzchugo/about/</link>
+    <link>http://homerhanumat.github.io/lzchugo/about/</link>
     <description>Recent content in About Us on LZC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:57243/lzchugo/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://homerhanumat.github.io/lzchugo/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Center</title>
-      <link>http://localhost:57243/lzchugo/about/center/</link>
+      <link>http://homerhanumat.github.io/lzchugo/about/center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57243/lzchugo/about/center/</guid>
+      <guid>http://homerhanumat.github.io/lzchugo/about/center/</guid>
       <description>The Center and its history.</description>
     </item>
     <item>
       <title>Teachers</title>
-      <link>http://localhost:57243/lzchugo/about/teachers/</link>
+      <link>http://homerhanumat.github.io/lzchugo/about/teachers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57243/lzchugo/about/teachers/</guid>
+      <guid>http://homerhanumat.github.io/lzchugo/about/teachers/</guid>
       <description>Learn a bit about our teachers.</description>
     </item>
     <item>
       <title>Events</title>
-      <link>http://localhost:57243/lzchugo/about/events/</link>
+      <link>http://homerhanumat.github.io/lzchugo/about/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57243/lzchugo/about/events/</guid>
+      <guid>http://homerhanumat.github.io/lzchugo/about/events/</guid>
       <description>A calendar of special events.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:57243/lzchugo/about/contact/</link>
+      <link>http://homerhanumat.github.io/lzchugo/about/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57243/lzchugo/about/contact/</guid>
+      <guid>http://homerhanumat.github.io/lzchugo/about/contact/</guid>
       <description>An email contact form (the quickest way to get a response from us).</description>
     </item>
   </channel>

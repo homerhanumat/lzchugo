@@ -1,5 +1,5 @@
 title = "LZC"
-baseURL = "http://homerhanumat.github.io/lzchugo"
+baseURL = "http://homerhanumat.github.io/lzchugo/"
 publishDir = "docs"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]

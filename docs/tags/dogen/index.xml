@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dogen on LZC</title>
-    <link>http://localhost:57243/lzchugo/tags/dogen/</link>
+    <link>http://homerhanumat.github.io/lzchugo/tags/dogen/</link>
     <description>Recent content in Dogen on LZC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Jun 2018 16:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57243/lzchugo/tags/dogen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://homerhanumat.github.io/lzchugo/tags/dogen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Single Vegetable Stalk</title>
-      <link>http://localhost:57243/lzchugo/post/single-vegetable-stalk/</link>
+      <link>http://homerhanumat.github.io/lzchugo/post/single-vegetable-stalk/</link>
       <pubDate>Sun, 03 Jun 2018 16:00:00 +0000</pubDate>
-      <guid>http://localhost:57243/lzchugo/post/single-vegetable-stalk/</guid>
+      <guid>http://homerhanumat.github.io/lzchugo/post/single-vegetable-stalk/</guid>
       <description>An impromptu student talk given by Homer White at the Lexington Zen Center, June 3, 2018.</description>
     </item>
   </channel>

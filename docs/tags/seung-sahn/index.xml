@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seung Sahn on LZC</title>
-    <link>http://localhost:57243/lzchugo/tags/seung-sahn/</link>
+    <link>http://homerhanumat.github.io/lzchugo/tags/seung-sahn/</link>
     <description>Recent content in Seung Sahn on LZC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Aug 2016 16:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57243/lzchugo/tags/seung-sahn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://homerhanumat.github.io/lzchugo/tags/seung-sahn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Ritual</title>
-      <link>http://localhost:57243/lzchugo/post/on-ritual/</link>
+      <link>http://homerhanumat.github.io/lzchugo/post/on-ritual/</link>
       <pubDate>Mon, 29 Aug 2016 16:00:00 +0000</pubDate>
-      <guid>http://localhost:57243/lzchugo/post/on-ritual/</guid>
+      <guid>http://homerhanumat.github.io/lzchugo/post/on-ritual/</guid>
       <description>A dharma talk given by Daniela (Muhanshim) at the Lexington Zen Center, August 29, 2016.</description>
     </item>
   </channel>
