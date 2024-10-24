@@ -1,5 +1,5 @@
 title = "LZC"
-baseURL = "http://homerhanumat.github.io"
+baseURL = "http://lexingtonzencenter.org"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
