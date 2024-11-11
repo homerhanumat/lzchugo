@@ -1,0 +1,86 @@
+title = "LZC"
+baseURL = "http://lexingtonzencenter.org"
+languageCode = "en-us"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+pagination.pagerSize = 6
+googleAnalytics = ""
+enableRobotsTXT = true
+enableEmoji = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  #facebook = "https://www.facebook.com/lexingtonzencenter/"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/fm-sky.jpg"
+  recent_posts_number = 2
+  cover_dimming_class = "bg-black-00"
+  #site_header_text_background_color = "rgba(50, 50, 50, 0.7);"
+  #page_header_text_background_color = "rgba(50, 50, 50, 0.7)"
+  custom_css = ["custom.css"]
+
+[params.ananke.social.follow]
+new_window_icon = false
+networks = [
+  "facebook"
+]
+
+[params.ananke.social.facebook]
+profilelink = "https://www.facebook.com/lexingtonzencenter/"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+
+[[menu.main]]
+  identifier = "post"
+  name = "Articles"
+  url = "/post/"
+  weight = 3 
+
+[[menu.main]]
+  identifier = "resources"
+  name = "Resources"
+  url = "/resources/"
+  weight = 3 
+
+
+[[menu.main]]  
+  identifier = "donate"
+  name = "Donate"
+  url = "/donate/"
+  weight = 5
+
