@@ -14,9 +14,9 @@ We welcome donations to support our work.  We can maintain our current levels of
 Donations may also be mailed to:
 
 >Lexington Zen Center<br>
-c/o Homer White<br>
-198 Hiawatha Trail<br>
-Georgetown, KY 40324
+c/o Zachary May<br>
+408 Gwinn Court<br>
+Lexington, KY 40517-2002
 
 The Lexington Zen Center is a 501c(3) non-profit organization, so your contributions are tax-deductible.
 
